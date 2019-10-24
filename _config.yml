@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hako's Time
+title: Hako Time
 email: hackhao@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Now I will show you how strong I am.
@@ -32,6 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+webrick:
+  headers:
+    My-Header: Aha Moment
 
 
 # Exclude from processing.
