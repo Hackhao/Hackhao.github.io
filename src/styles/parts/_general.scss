@@ -1,0 +1,125 @@
+
+/* = = = = = = = = = = Main Styles = = = = = = = = = = */
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  color: $dark-gray;
+  margin: 0;
+  background-color: $white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  color: $dark-purple;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+a {
+  color: $violet;
+}
+
+
+.btn-secondary {
+  background-color: $purple-gray;
+  border-color: $purple-gray;
+  &:hover {
+    background-color: lighten($purple-gray, 10%);
+    border-color: lighten($purple-gray, 10%);
+  }
+}
+
+.btn-primary {
+  background: $light-purple;
+  border-color: $light-purple;
+  &:hover {
+    background: lighten($light-purple, 10%);
+    border-color: lighten($light-purple, 10%);
+  }
+}
+
+blockquote {
+  border-left: 3px solid $dark-purple;
+  padding-left: 18px;
+  margin-left: 21px;
+  font-style: italic;
+  color: $dark-purple;
+}
+
+pre {
+  padding: 16px 32px;
+  overflow-x: auto;
+
+  code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  transition: transform .4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+}
+
+.flex-container.active {
+  transform: translate3d(300px, 0, 0);
+  &::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0,0,0,0.5);
+  }
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.wrapper {
+  width: 880px;
+  max-width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+
+::-moz-selection {
+  background: rgba(49, 30, 62, 0.7);
+  color: #ffffff;
+}
+
+::selection {
+  background: rgba(49, 30, 62, 0.7);
+  color: #ffffff;
+}
+
+.clearfix::before, .clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.clearfix::before {
+  clear: both;
+}

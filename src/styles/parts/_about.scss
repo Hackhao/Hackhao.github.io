@@ -1,0 +1,37 @@
+.small-wrapper {
+  width: 700px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.about-container {
+  margin: 3em auto 0;
+  position: relative;
+  text-align: justify;
+  padding-bottom: 30px;
+
+  p {
+    color: $dark-purple;
+    font-weight: 300;
+  }
+  width: 600px;
+}
+
+
+.about-header {
+  &:after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 80px;
+    background-color: $dark-purple;
+    margin: 2em auto;
+  }
+  .author-image-container {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: 0 auto 30px;
+  }
+}

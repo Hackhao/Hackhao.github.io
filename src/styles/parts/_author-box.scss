@@ -1,0 +1,33 @@
+.author-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid $lighten-gray;
+  .author-left {
+    margin-right: 30px;
+    li {
+      a {
+        padding: 0;
+      }
+    }
+  }
+  .author-img {
+    min-width: 120px;
+    height: 120px;
+    border-radius: 100%;
+  }
+  .author-right {
+    h2 {
+      margin: 0 0 10px;
+    }
+    p {
+      margin: 0 0 10px;
+    }
+  }
+
+  .contact-links {
+    margin-top: 15px;
+  }
+}

@@ -1,0 +1,10 @@
+<section class="author-box">
+  <div class="author-left">
+    <img src="{{site.baseurl}}/assets/img/{% if site.author_photo %}{{site.author_photo}}{% endif %}" alt="{{site.author}}" class="author-img">
+    {% include social-links.html %}
+  </div>
+  <div class="author-right">
+    <h2>{{site.author}}</h2>
+    {{site.user_description_short | markdownify }}
+  </div>
+</section>
