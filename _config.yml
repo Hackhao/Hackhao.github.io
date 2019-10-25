@@ -1,7 +1,7 @@
 # Site settings
 title: Hako Wu
 description: |
-  I am studying for a doctorate in the Department of Computer Science & Technology at Nanjing University.
+  I am a 2nd-year Ph.D. student in the Department of Computer Science & Technology at Nanjing University.
   My research interest is intelligent mobile computing & its security.
   Ny advisor is Prof. [Fengyuan Xu][Fengyuan Site].
 
@@ -12,17 +12,38 @@ url: http://hackhao.github.io
 about_title: About
 projects_title: Home
 
-
 # User settings
 user_description_appendix: |
-
-  My research interest is intelligent mobile computing & its security.
-  Ny advisor is Prof. [Fengyuan Xu][Fengyuan Site].
-
-  I am conducting a research internship in MSRA's HEX group under the guidance of [Yunxin Liu][Yunxin Site]. (2019.9.24~)
+  I am a 2nd-year Ph.D. student in the Department of Computer Science & Technology at Nanjing University.
+  My research interest is intelligent mobile computing and its security.
+  My advisor is Prof. [Fengyuan Xu][Fengyuan Site].
 
   [Fengyuan Site]: https://cs.nju.edu.cn/fxu/
+
+user_experience: |
+  ### Experience
+
+  - **[2019.09.24~Today]** Conduct a research internship in **MSRA's HEX group** under the guidance of [Yunxin Liu][Yunxin Site]. 
+  - **[2018.09.01~Today]** Serve as the prefect of the Ph.D. students in the CS department.
+
   [Yunxin Site]: https://www.microsoft.com/en-us/research/people/yunliu/
+
+user_selected_publication: |
+  ### Selected Publication
+
+  2. **Hao Wu**, Zheng Qin, Xuejin Tian, Edward Sun, Fengyuan Xu, and Sheng Zhong. **Broken Relationship of Mobile User Intentions and Permission Control of Shared System Resources**. 2019 IEEE Conference on Dependable and Secure Computing **(DSC 2019, Invited Paper)**.
+  1. **Hao Wu**, Jinghao Feng, Xuejin Tian, Fengyuan Xu, Sheng Zhong, Yunxin Liu, and Xiaofeng Wang. **secGAN: Secure Recoverable GAN-based Video Transformation**. MobiCom Workshop on Hot Topics in Video Analytics and Intelligent Edges **(HotEdgeVideo 2019)**. <a href="{{https://dl.acm.org/citation.cfm?id=3356024}}"><i class="far fa-file-alt"></i></a>
+
+user_selected_award: |
+  ### Selected Award [^1]
+  
+  - **First-class Talents Scholarship of Nanjing University**, 2019
+  - **First-class Academic Scholarship of Nanjing University**, 2019.
+  - **The Star of Virtue of Nanjing University**, 2018.
+  
+  [^1]: Since 2018.
+  
+
 
 email: hackhao@icloud.com
 twitter: Hackhao
@@ -30,7 +51,7 @@ github: Hackhao
 #angellist: rassaby
 linkedin: hao-wu-592662193
 
-relevant_tags: ["projects","papers","how-to"]
+relevant_tags: ["projects", "papers", "how-to"]
 #, "program analysis", "papers", "how to"
 # resume_url: https://docs.google.com/document/d/1dJIboSF-ktdaP28DDu-gcuOW1SCCnkSdqtodJGwYkaA/export?format=pdf
 # music_resume_url: https://docs.google.com/document/d/17F3g8jx2UHby77P7shJlsKAW2Efasuc1HuQ3Ro3v3zI/export?format=pdf

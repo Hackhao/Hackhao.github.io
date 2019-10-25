@@ -16,8 +16,20 @@ permalink: /about/
         </div> -->
     </section>
     <section class="about-body">
-        {{ site.user_description_short | markdownify }}
+        <!-- {{ site.user_description_short | markdownify }} -->
         {{ site.user_description_appendix | markdownify }}
+
+        {{ "***" | markdownify }}
+
+        {{ site.user_experience | markdownify }}
+
+        {{ "***" | markdownify }}
+
+        {{ site.user_selected_publication | markdownify}}
+
+        {{ "***" | markdownify }}
+
+        {{ site.user_selected_award | markdownify }}
     </section>
   </div> <!-- End About Container -->
 </div> <!-- End Small Wrapper -->
