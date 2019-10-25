@@ -3,7 +3,7 @@ layout: post
 title: Something you should know about Soot
 date: 2019-10-24 00:00:00 -0000
 tags: [projects]
-image: android-logo.png
+image: soot-logo.png
 ---
 
 [Soot][soot_link] started off as a Java optimization framework. By now, researchers and practitioners from around the world use Soot to analyze, instrument, optimize and visualize Java and Android applications.
