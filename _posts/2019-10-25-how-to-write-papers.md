@@ -8,10 +8,10 @@ author:
 ---
 
 
-This article was written by Roy Levin and David D. Redell (Ninth SOSP Program Committee Co-chairmen), and first appeared in ACM SIGOPS Operating Systems Review, Vol. 17, No. 3 (July, 1983), pages 35-40. 
+This article was written by Roy Levin and David D. Redell (Ninth SOSP[^1] Program Committee Co-chairmen), and first appeared in ACM SIGOPS Operating Systems Review, Vol. 17, No. 3 (July, 1983), pages 35-40. 
 Every effort has been made to keep the text in this document identical to that of the original article. 
 
-
+[^1]: <span style="color:green">SOSP and OSDI are the Oscars in the system field.</span>
 
 ***
 
