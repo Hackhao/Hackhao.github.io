@@ -19,9 +19,10 @@ user_description_appendix: |
   My research interest is intelligent mobile computing & its security.
   Ny advisor is Prof. [Fengyuan Xu][Fengyuan Site].
 
-  I created this site to write about my aha monents: papers, projects, and maybe something about my life.
+  I am conducting a research internship in MSRA's HEX group under the guidance of [Yunxin Liu][Yunxin Site]. (2019.9.24~)
 
   [Fengyuan Site]: https://cs.nju.edu.cn/fxu/
+  [Yunxin Site]: https://www.microsoft.com/en-us/research/people/yunliu/
 
 email: hackhao@icloud.com
 twitter: Hackhao
@@ -29,7 +30,7 @@ github: Hackhao
 #angellist: rassaby
 linkedin: hao-wu-592662193
 
-relevant_tags: ["projects","papers"]
+relevant_tags: ["projects","papers","how-to"]
 #, "program analysis", "papers", "how to"
 # resume_url: https://docs.google.com/document/d/1dJIboSF-ktdaP28DDu-gcuOW1SCCnkSdqtodJGwYkaA/export?format=pdf
 # music_resume_url: https://docs.google.com/document/d/17F3g8jx2UHby77P7shJlsKAW2Efasuc1HuQ3Ro3v3zI/export?format=pdf
@@ -38,7 +39,7 @@ author: Hako Wu
 author_title: Ph.D. Student
 author_photo: profile-photo.jpg
 user_description_short: |
-  I am studying for a doctorate in the Department of Computer Science & Technology at Nanjing University.
+  I am a 2nd-year Ph.D. student in the Department of Computer Science & Technology at Nanjing University.
 
 ## Disqus
 disqus_identifier: hako_wu
