@@ -74,5 +74,7 @@ The following is the introduction of the infoflow analysis in Soot.
 > Note that a ref-type parameter (or field or global) might allow access to a large data structure, but that entire structure will be represented only by the parameter's one node in the data flow graph. <br>
 > Provides a high level interface to access the data flow information.
 
+- __UseFinder:__ Find a list of all uses of fields of each application class within the application classes by looking at every application method. Find a list of all calls to methods of each application class within the application classes by using the call graph.
+- 
 
 __(In progress ...)__
