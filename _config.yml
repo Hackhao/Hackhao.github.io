@@ -80,6 +80,7 @@ about_url: "/about"
 plugins:
   - jekyll-feed
 
+
 include: [_pages]
 exclude:
   [
@@ -91,3 +92,4 @@ exclude:
     "gulpfile.js",
     "README.md",
   ]
+
