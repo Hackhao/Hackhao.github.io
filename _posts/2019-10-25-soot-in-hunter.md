@@ -44,9 +44,9 @@ __Second__, we need to analysis the infoflow of the application to help us track
 
 #### Background 
 
-__<span style="color:red">Interprocedural flow-insensitive summary</span>__
+__<span style="color:red">Interprocedural Flow-insensitive Summary</span>__
 
-This information describes for each external entry, the set of formal parameter variables and global variables that may be used (data read from) and the set of formal parameter variables and global variables that may be modified by an invocation of that entry. 
+The Interprocedural flow-insensitive summary describes for each external entry, the set of formal parameter variables and global variables that may be used (data read from) and the set of formal parameter variables and global variables that may be modified by an invocation of that entry. 
 
 The terms __flow-insensitive__ and __may__ distinguish the information from __flow-sensitive__ and __must__ information. Intuitively, __must__ facts hold on all execution paths through a subroutine (e.g., __variable X must be modified__) while __may__ facts hold on at least one execution path. 
 
@@ -66,6 +66,13 @@ There are also edges from entry and return nodes to call and exit nodes. These e
 [^1]: A precise interprocedural data flow algorithm.
 
 #### What does Soot actually do?
+
+The following is the introduction of the infoflow analysis in Soot.
+> InfoFlowAnalysis written by Richard L. Halpert, 2007-02-24. <br>
+> Constructs data flow tables for each method of every application class. Ignores indirect flow.<br>
+> These tables conservatively approximate how data flows from parameters, fields, and globals to parameters, fields, globals, and the return value. <br>
+> Note that a ref-type parameter (or field or global) might allow access to a large data structure, but that entire structure will be represented only by the parameter's one node in the data flow graph. <br>
+> Provides a high level interface to access the data flow information.
 
 
 __(In progress ...)__
