@@ -10,7 +10,7 @@ image: android.png
 
 ***
 
-### Evaluate the Call Graph built by Soot.
+### How does Soot build a Call Graph?
 
 __First__, we need to build a call graph of an Android application. I need to evaluate whether Soot can provide the functions we require. The following is the workflow of Soot when building a call graph.
 
@@ -38,7 +38,7 @@ After analysis, I think Soot is sufficient to build the Call Graph we need.
 
 ***
 
-### Evaluate the Infoflow analyzed by Soot.
+### How does Soot analyze the infoflow?
 
 __Second__, we need to analysis the infoflow of the application to help us track some variables.
 
@@ -57,7 +57,7 @@ Flow-insensitive may summary information that can dramatically reduce the number
 
 __<span style="color:red">The Program Summary Graph</span>__
 
-The program summary graph is an abstraction of a complete program. It summarizes the interprocedural control flow in a way that generalizes the more traditional call graph but is more compact than the program supergraph described by Myers[^1]. The program summary graph has four types of nodes: entry nodes, call nodes, exit nodes, and return nodes. There are entry and exit nodes for every formal parameter of every routine. There are call and return nodes for every actual parameter of every call site. These nodes represent the four interprocedural events: procedure entry, procedure invocation, procedure exit, and procedure return. For now, assume that global variables are treated explicitly as formal parameters and actual parameters.
+The program summary graph is an abstraction of a complete program. It summarizes the interprocedural control flow in a way that generalizes the more traditional call graph but is more compact than the program supergraph described by Myers[^1]. The program summary graph has four types of nodes: _entry nodes_, _call nodes_, _exit nodes_, and _return nodes_. There are entry and exit nodes for every formal parameter of every routine. There are call and return nodes for every actual parameter of every call site. These nodes represent the four interprocedural events: procedure entry, procedure invocation, procedure exit, and procedure return. For now, assume that global variables are treated explicitly as formal parameters and actual parameters.
 
 There are edges from call nodes to entry nodes that correspond to the binding of formal parameters to actual parameters. There are also edges from exit nodes to return nodes that correspond to this same binding. These edges depend only on the call structure of the program, not the internals of the subroutine.
 
@@ -65,7 +65,7 @@ There are also edges from entry and return nodes to call and exit nodes. These e
 
 [^1]: A precise interprocedural data flow algorithm.
 
-#### Infoflow analyzed by Soot
+#### What does Soot actually do?
 
 
 __(In progress ...)__
