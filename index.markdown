@@ -1,20 +1,18 @@
-<!-- ###             <img src="./pic/my-photo.jpg" alt="Hao Wu" style="float: left; zoom:12%;" /> -->
 
 <img src = "./pic/my-photo.jpg" align = "float: left" width = "300">
 
-​         <font size=5>**Hao Wu (吴昊)**</font>
+**Hao Wu (吴昊)**
 
-​          <font size=3;color=DarkBlue>**Assistant Researcher, Nanjing University (2022.2~now)**</font>
+**Assistant Researcher, Nanjing University (2022.2~now)**
 
-​          <font size=2>**Email:** hao *dot* wu *at* nju *dot* edu *dot* cn</font>
+**Email:** hao *dot* wu *at* nju *dot* edu *dot* cn
 
-​          <font size=2>**Mailing Address:** Room 1019, Building of Computer Science and Technology, </font>
+**Mailing Address:** Room 328, Building of Computer Science and Technology, Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China (210023)
 
-​          <font size=2>Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China (210023)</font>
 <br/>
 
 
-I received my Bachelor degree in computer science from [Nanjing University](https://www.nju.edu.cn) in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021. My research interests include **Intelligent Edge Computing Systems** and **Intelligent Privacy Computing**.
+I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021. My research interests include **Intelligent Edge Computing Systems** and **Intelligent Privacy Computing**.
 
 
 ### **Academic Services**
