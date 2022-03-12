@@ -83,8 +83,8 @@
 <table class="mytable">
 
 <tr>
-<td width="150px" border="0px">
-<img src = "./pic/photo.png" style="margin-bottom:20px" align = "float: left"> 
+<td width="160px" border="0px">
+<img src = "./pic/photo.png" style="margin-bottom:40px" align = "float: left"> 
 </td>
 
 <td border="0px">
