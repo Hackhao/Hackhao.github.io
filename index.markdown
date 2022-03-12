@@ -1,5 +1,26 @@
-
 <style>
+    @font-face {
+        font-family: Lato;
+        src: url(lato/Lato-Bold.ttf);
+        font-weight: bold;
+    }
+    @font-face {
+        font-family: Lato;
+        src: url(lato/Lato-Regular.ttf);
+        /* font-weight: bold; */
+    }
+    @font-face {
+        font-family: Lato;
+        src: url(lato/Lato-Italic.ttf);
+        font-style: italic;
+    }
+    @font-face {
+        font-family: Lato;
+        src: url(lato/Lato-BoldItalic.ttf);
+        font-style: italic;
+        font-weight: bold;
+    }    
+    
     .mytable {
         border: 0px !important;
     }
@@ -27,7 +48,7 @@
     body{
         border-top: 5px solid #70BC79 !important;
         border-bottom: 5px solid #70BC79 !important;
-        font-family:lato !important;
+        font-family:Lato !important;
     }
     li{
         margin-bottom: 4px;
