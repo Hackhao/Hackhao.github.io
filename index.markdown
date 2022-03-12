@@ -84,7 +84,7 @@
 
 <tr>
 <td width="150px" border="0px">
-<img src = "./pic/my-photo.jpg" style="margin-bottom:20px" align = "float: left"> 
+<img src = "./pic/photo.png" style="margin-bottom:20px" align = "float: left"> 
 </td>
 
 <td border="0px">
