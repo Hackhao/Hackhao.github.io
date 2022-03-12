@@ -126,6 +126,10 @@ I received my Bachelor degree in computer science from Nanjing University in Jul
 - 第二届大数据与隐私计算专委会 委员
 
 
+### **Personal Opinion**
+
+- 特斯拉事件引思考 任务优先是自动驾驶事故“元凶”？中国汽车报, Feb. 2022. [新闻稿](http://www.cnautonews.com/zhinengwl/2022/02/09/detail_20220209349248.html)
+  
 
 
 ### **Selected Publications** (chronological order)
@@ -136,6 +140,8 @@ I received my Bachelor degree in computer science from Nanjing University in Jul
 - **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. *The 30th Web Conference **(WWW 2021)***. [paper](publications/WWW2021-DAPter.pdf) [slides](slides/WWW-DAPter-slides.pdf)
 - **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. *The 27th Annual International Conference On Mobile Computing And Networking **(MobiCom 2021)***. [paper](publications/MobiCom2021-PECAM.pdf) [slides](slides/MobiCom2021-PECAM-slides.pdf)
 - **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. *18th ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys 2020)***. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
+
+
 
 
 <script type="text/javascript">
