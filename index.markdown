@@ -1,5 +1,5 @@
 
-<img src = "./pic/my-photo.jpg" align = "float: left" width = "300">
+<img src = "./pic/my-photo.jpg" align = "float: left" width = "100">
 
 **Hao Wu (吴昊)**
 
@@ -9,7 +9,6 @@
 
 **Mailing Address:** Room 328, Building of Computer Science and Technology, Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China (210023)
 
-<br/>
 
 ### **About Me**
 
