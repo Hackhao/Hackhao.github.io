@@ -47,13 +47,14 @@
 <tr>
     <p style="font-size: 30px;font-weight: bold;margin-bottom:-5px;color:#70BC79">Hao Wu (吴昊)</p>
 </tr>
-<br>
-<tr><div style="font-weight:bold;display:inline">Assistant Researcher </div>, Nanjing University.</tr>
-<br>
+<!-- <br> -->
+<div style="height:10px;width:1px"></div>
+<tr><div style="font-weight:bold;display:inline;font-size:20px">Assistant Researcher </div><div style="font-size:20px;display:inline">, Nanjing University.</div></tr>
+<div style="height:5px;width:1px"></div>
 <tr>
     <p style="margin-top: 4px;margin-bottom:-20px;">
         <svg class="icon" style="width: 1.2em;height: 1.2em;vertical-align: middle;margin-top:-3px;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="959"><path d="M810.666667 187.733333c70.6944 0 128 57.3056 128 128v394.158934c0 70.690133-57.3056 128-128 128H213.333333c-70.6944 0-128-57.309867-128-128V315.733333c0-70.6944 57.3056-128 128-128h597.333334z m0 59.733334H213.333333c-37.252267 0-67.541333 29.841067-68.253866 66.922666L145.066667 315.733333v394.158934c0 37.252267 29.841067 67.541333 66.922666 68.253866l1.344 0.0128h597.333334c37.252267 0 67.541333-29.841067 68.253866-66.922666l0.0128-1.344V315.733333c0-37.252267-29.841067-67.541333-66.922666-68.253866L810.666667 247.466667z" fill="#000000" p-id="960"></path><path d="M581.376 523.989333c-40.221867 25.173333-93.405867 25.540267-134.0032 1.096534l-1.783467-1.096534-171.4432-107.298133a29.866667 29.866667 0 0 1 30.7712-51.182933l0.917334 0.5504 171.4432 107.298133c20.970667 13.124267 49.723733 13.405867 71.0272 0.836267l1.378133-0.836267 171.447467-107.298133a29.866667 29.866667 0 0 1 32.584533 50.048l-0.896 0.584533-171.4432 107.298133z" fill="#E76558" p-id="961"></path></svg>
-        hao.wu@nju.edu.cn 
+        <a href="mailto:hao.wu@nju.edu.cn" style="color:black !important">hao.wu@nju.edu.cn </a>
     </p>
 </tr>
 <br>
