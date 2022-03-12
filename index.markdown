@@ -1,8 +1,10 @@
-###             <img src="./pic/my-photo.jpg" alt="Hao Wu" style="float: left; zoom:12%;" />
+<!-- ###             <img src="./pic/my-photo.jpg" alt="Hao Wu" style="float: left; zoom:12%;" /> -->
+
+<img src = "./pic/my-photo.jpg" align = "float: left" width = "300">
 
 ​         <font size=5>**Hao Wu (吴昊)**</font>
 
-​          <font size=3; color=DarkBlue>**Assistant Researcher, Nanjing University (2022.2~now)**</font>
+​          <font size=3;color=DarkBlue>**Assistant Researcher, Nanjing University (2022.2~now)**</font>
 
 ​          <font size=2>**Email:** hao *dot* wu *at* nju *dot* edu *dot* cn</font>
 
