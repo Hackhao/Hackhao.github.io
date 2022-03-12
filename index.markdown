@@ -37,8 +37,8 @@ My research interests include Intelligent Edge Computing Systems and Intelligent
 
 
 -  **吴昊**, 王浩, 苏醒, 李明昊, 许封元, 仲盛. 动驾驶系统中视觉感知模块的安全测试. *计算机研究与发展*. <font color=red>[中文CCF-A]</font>
-- <font color=blue>[WWW2021]</font> **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. *The 30th Web Conference. (WWW)*, 2021. <font color=red>[CCF-A]</font>
-- <font color=blue>[MobiCom2021]</font> **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. *The 27th Annual International Conference On Mobile Computing And Networking. (MobiCom)*, 2021.<font color=red>[CCF-A]</font>
-- <font color=blue>[MobiSys2020]</font> **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. *18th ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys)*, 2020.<font color=red>[CCF-B]</font>
+- **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. *The 30th Web Conference. (WWW)*, 2021. <font color=red>[CCF-A]</font>
+- **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. *The 27th Annual International Conference On Mobile Computing And Networking. (MobiCom)*, 2021.<font color=red>[CCF-A]</font>
+- **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. *18th ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys)*, 2020.<font color=red>[CCF-B]</font>
 
 
