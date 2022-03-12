@@ -1,13 +1,21 @@
 
+<table border="0">
+<tr>
 <img src = "./pic/my-photo.jpg" align = "float: left" width = "100">
 
+</tr>
+<tr>
 **Hao Wu (吴昊)**
 
-**Assistant Researcher, Nanjing University (2022.2~now)**
+**Assistant Researcher**, Nanjing University (2022.2~now)
 
 **Email:** hao.wu@nju.edu.cn
 
 **Mailing Address:** Room 328, Building of Computer Science and Technology, Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China (210023)
+
+</tr>
+</table>
+
 
 
 ### **About Me**
