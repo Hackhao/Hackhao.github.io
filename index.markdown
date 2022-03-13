@@ -119,7 +119,7 @@
 
 I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021. 
 
-From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* ***(MOSS)*** research group, which is affiliated with the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology. *We enjoy working on projects to create an immersive, trustworthy, compassionate, and sustainable computing environment for individual, society, and ecology.*
+From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* ***([MOSS](https://cs.nju.edu.cn/fxu/index.htm))*** research group, which is affiliated with the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology. *We enjoy working on projects to create an immersive, trustworthy, compassionate, and sustainable computing environment for individual, society, and ecology.*
 
 My research interests include ***Intelligent Edge Computing Systems*** and ***Intelligent Privacy Computing***.
 
