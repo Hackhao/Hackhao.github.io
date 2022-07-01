@@ -128,12 +128,17 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 ### **Academic Services**
 
 - 第二届大数据与隐私计算专委会 委员
+- CCF系统软件专业委员会 通讯委员
 
 
 ### **Personal Opinion**
 
 - 特斯拉事件引思考 任务优先是自动驾驶事故“元凶”？中国汽车报, Feb. 2022. [新闻稿](http://www.cnautonews.com/zhinengwl/2022/02/09/detail_20220209349248.html)
-  
+
+
+### **Projects**
+
+- CCF-华为胡杨林基金 面向隐私计算的边缘协同训练新范式研究
 
 
 ### **Selected Publications** (chronological order)
