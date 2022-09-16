@@ -144,7 +144,7 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 ### **Selected Publications** (chronological order)
 - Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. 
-- Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. *The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2022)** *. [paper](publications/TrustCom2022-AVMiner.pdf) 
+- Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. *The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2022)***. [paper](publications/TrustCom2022-AVMiner.pdf) 
 - Xiaopeng Ke, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Towards Practical and Efficient Long Video Summary. *2022 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2022)***. [paper](publications/ICASSP2022.pdf) 
 - **吴昊**, 王浩, 苏醒, 李明昊, 许封元, 仲盛. 自动驾驶系统中视觉感知模块的安全测试. *计算机研究与发展 2022*. [paper](publications/JCRD2022.pdf)
 - Ligeng Chen, Zhongling He, **Hao Wu**, Fengyuan Xu, Yi Qian, and Bing Mao. DIComP: Lightweight Data-Driven Inference of Binary Compuler Provenance with High Accuracy. *2022 International Conference on Software Analysis, Evolution, and Reengineering **(SANER 2022)***.[Paper](publications/SANER2022-DIComP.pdf) 
