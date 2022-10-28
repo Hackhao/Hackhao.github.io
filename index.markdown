@@ -127,7 +127,8 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 ### **Academic Services**
 
-- 第二届大数据与隐私计算专委会 委员
+- ACM SIGBED中国 委员
+- 第二届大数据安全与隐私计算专委会 委员
 - CCF系统软件专业委员会 通讯委员
 
 
