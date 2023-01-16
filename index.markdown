@@ -146,9 +146,10 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 ### **Awards**
 
-- 2022 中文信息学会 优秀博士学位论文
-- 2022 ACM SIGBED（中国）优博
-- 2022 南京大学计算机科学与技术系优秀博士论文
+- 中文信息学会 优秀博士学位论文
+- ACM SIGBED（中国）优博
+- 江苏省计算机学会优秀博士学位论文
+- 南京大学计算机科学与技术系优秀博士论文
 
 
 
