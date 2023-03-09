@@ -154,7 +154,8 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 
 ### **Selected Publications** (chronological order)
-- Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. 
+- **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023)***. [paper](publications/ICASSP2023-GAPter.pdf) 
+- Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. [paper](publications/TMC-LEAP.pdf) 
 - Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. *The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2022)***. [paper](publications/TrustCom2022-AVMiner.pdf) 
 - Xiaopeng Ke, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Towards Practical and Efficient Long Video Summary. *2022 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2022)***. [paper](publications/ICASSP2022.pdf) 
 - **吴昊**, 王浩, 苏醒, 李明昊, 许封元, 仲盛. 自动驾驶系统中视觉感知模块的安全测试. *计算机研究与发展 2022*. [paper](publications/JCRD2022.pdf)
