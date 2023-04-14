@@ -154,6 +154,7 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 
 ### **Selected Publications** (chronological order)
+- Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf) 
 - **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023)***. [paper](publications/ICASSP2023-GAPter.pdf) 
 - Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. [paper](publications/TMC-LEAP.pdf) 
 - Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. *The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2022)***. [paper](publications/TrustCom2022-AVMiner.pdf) 
