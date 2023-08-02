@@ -139,8 +139,8 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 ### **Projects**
 
-- 2022-2025,国家重点研发计划项目子课题
-- 2022,CCF-华为胡杨林基金,面向隐私计算的边缘协同训练新范式研究
+- 2022-2025, 国家重点研发计划项目子课题
+- 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究
 - 2022-2025, 江苏省青年基金 
 
 
