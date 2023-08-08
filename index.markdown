@@ -139,9 +139,11 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 ### **Projects**
 
-- 2022-2025, 国家重点研发计划项目子课题
-- 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究
-- 2022-2025, 江苏省青年基金 
+- 2023, 横向课题, Web3安全情报分析，主持
+- 2023-2024, 国自然基金，任务负责人
+- 2022-2025, 国家重点研发计划项目，子课题负责人
+- 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究，主持
+- 2022-2025, 江苏省青年基金, 端边协同的移动智能计算中的支撑技术研究，主持
 
 
 ### **Awards**
@@ -153,7 +155,7 @@ My research interests include ***Intelligent Edge Computing Systems*** and ***In
 
 
 ### **Selected Publications** (chronological order)
-- Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. 
+- Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. [paper](publications/MM2023-SIEGE.pdf) 
 - Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf) 
 - **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023, Oral)***. [paper](publications/ICASSP2023-GAPter.pdf) 
 - Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. [paper](publications/TMC-LEAP.pdf) 
