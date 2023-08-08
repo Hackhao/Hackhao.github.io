@@ -121,8 +121,15 @@ I received my Bachelor degree in computer science from Nanjing University in Jul
 
 From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* ***([MOSS](https://cs.nju.edu.cn/fxu/index.htm))*** research group, which is affiliated with the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology. *We enjoy working on projects to create an immersive, trustworthy, compassionate, and sustainable computing environment for individual, society, and ecology.*
 
-My research interests include ***Intelligent Edge Computing Systems*** and ***Intelligent Privacy Computing***.
 
+My research interests primarily include ***Data Trust*** and ***Data-driven Security***. Specifically,
+1. Implement joint hardware-software design to ensure the fairness, security, and privacy of data sharing. (e.g., ICASSP2023, TMC, WWW2021, MobiCom2021, MobiSys2020)
+2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
+
+
+我的研究兴趣主要包括 ***数据信托*** 和 ***数据驱动安全***。 具体而言，
+1. 联合软硬件设计，保障数据流通共享的公平性、安全性、和隐私;
+2. 采用数据驱动方法，检测、审计并修复软件和系统中的安全问题。
 
 
 ### **Academic Services**
