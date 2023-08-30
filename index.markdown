@@ -155,6 +155,8 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - ACM SIGBED（中国）优博
 - 江苏省计算机学会优秀博士学位论文
 - 南京大学计算机科学与技术系优秀博士论文
+- “紫金山英才”栖霞先锋计划高层次创新创业人才
+- “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名
 
 
 ### **Selected Publications** (chronological order)
