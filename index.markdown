@@ -132,12 +132,8 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - ACM SIGBED中国 委员
 - 中文信息学会 大数据安全与隐私计算专委会 委员
 - 中文信息学会 青年工作委员会 委员
-- CCF系统软件专业委员会 通讯委员
+- CCF系统软件专业委员会 委员
 
-
-### **Personal Opinion**
-
-- 特斯拉事件引思考 任务优先是自动驾驶事故“元凶”？中国汽车报, Feb. 2022. [新闻稿](http://www.cnautonews.com/zhinengwl/2022/02/09/detail_20220209349248.html)
 
 
 ### **Fundings**
@@ -160,6 +156,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 
 ### **Selected Publications** (chronological order)
+- Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. *2024 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024)***. 
 - Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. [paper](publications/MM2023-SIEGE.pdf) 
 - Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf) 
 - **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023, Oral)***. [paper](publications/ICASSP2023-GAPter.pdf) 
