@@ -115,6 +115,14 @@
 </table>
 
 
+
+### **Join Us!**
+
+I am looking for highly motivated and self-driven students, who are interested in intelligent security and privacy techniques.
+
+If you would like to join us, send an email for Ph.D. or Master positions!
+
+
 ### **About Me**
 
 I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021. 
@@ -125,7 +133,7 @@ From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* 
 My research interests primarily include ***Data Trust***, ***Data-driven Security***, and ***Mobile AI***. Specifically,
 1. Implement joint hardware-software design to ensure the fairness, security, and privacy of data sharing. (e.g., ICASSP2023, TMC, WWW2021, MobiCom2021)
 2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
-3. Construct interesting, efficient, and secure mobile AI systems. (e.g., SIGIR2023, ICASSP2022, MobiSys2020)
+3. Construct interesting, efficient, and secure mobile AI systems. (e.g., ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020)
 
 ### **Academic Services**
 
@@ -133,12 +141,15 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - 中文信息学会 大数据安全与隐私计算专委会 委员
 - 中文信息学会 青年工作委员会 委员
 - CCF系统软件专业委员会 委员
+- IEEE MSN 2023 TPC
+- IEEE MASS 2024 TPC
 
 
 
 ### **Fundings**
+- 2024, 横向课题, Web3安全情报分析 2，主持
 - 2024-2026, 国自然青年科学基金, 云边端融合下隐私增强的高可用智能计算协同技术，主持
-- 2023, 横向课题, Web3安全情报分析，主持
+- 2023, 横向课题, Web3安全情报分析 1，主持
 - 2023-2024, 国自然基金，任务负责人
 - 2022-2025, 国家重点研发计划项目，子课题负责人
 - 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究，主持
@@ -156,7 +167,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 
 ### **Selected Publications** (chronological order)
-- Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. *2024 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024)***. 
+- Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. *2024 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024)***. [paper](publications/ICASSP2024_MuSR.pdf)
 - Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. [paper](publications/MM2023-SIEGE.pdf) 
 - Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf) 
 - **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023, Oral)***. [paper](publications/ICASSP2023-GAPter.pdf) 
