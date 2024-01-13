@@ -118,9 +118,13 @@
 
 ### **Join Us!**
 
-I am looking for highly motivated and self-driven students, who are interested in intelligent security and privacy techniques.
+I am looking for highly motivated and self-driven students. If you are interested in intelligent security and privacy techniques, send an email for Ph.D. or Master positions!
 
-If you would like to join us, send an email for Ph.D. or Master positions!
+
+<br>
+<br>
+
+
 
 
 ### **About Me**
