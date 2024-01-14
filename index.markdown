@@ -146,7 +146,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - 中文信息学会 青年工作委员会 委员
 - CCF系统软件专业委员会 委员
 - IEEE MSN 2023 TPC
-<!-- - IEEE MASS 2024 TPC -->
+- IEEE MASS 2024 TPC
 
 
 
