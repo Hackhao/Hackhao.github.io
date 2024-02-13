@@ -149,6 +149,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - IEEE MSN 2023 TPC
 - IEEE MASS 2024 TPC
 - IEEE ICDCS 2024 TPC
+- EAI ICECI 2024 Web Chair
 
 
 
