@@ -146,13 +146,14 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - 中文信息学会 青年工作委员会 委员
 - CCF系统软件专业委员会 委员
 
+- IEEE TMC Reviewer
 - IEEE MSN 2023 TPC
 - IEEE MASS 2024 TPC
 - IEEE ICDCS 2024 TPC
 - EAI ICECI 2024 Web Chair
 
 
-
+<!-- 
 ### **Fundings**
 - 2024, 企业合作课题, Web3安全情报分析 2，主持
 - 2024-2026, 国自然青年科学基金, 云边端融合下隐私增强的高可用智能计算协同技术，主持
@@ -161,16 +162,16 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - 2022-2025, 国家重点研发计划项目，子课题负责人
 - 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究，主持
 - 2022-2025, 江苏省青年基金, 端边协同的移动智能计算中的支撑技术研究，主持
-
+ -->
 
 ### **Awards**
-
+- MSR Asia StarTrack Scholars 2024 program
 - 中文信息学会 优秀博士学位论文
 - ACM SIGBED（中国）优博
 - 江苏省计算机学会优秀博士学位论文
 - 南京大学计算机科学与技术系优秀博士论文
-- “紫金山英才”栖霞先锋计划高层次创新创业人才
-- “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名
+<!-- - “紫金山英才”栖霞先锋计划高层次创新创业人才
+- “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
 
 
 ### **Selected Publications** (chronological order)
