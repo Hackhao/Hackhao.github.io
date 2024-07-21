@@ -19,8 +19,8 @@
         src: url(lato/Lato-BoldItalic.ttf);
         font-style: italic;
         font-weight: bold;
-    }    
-    
+    }
+
     .mytable {
         border: 0px !important;
     }
@@ -53,7 +53,7 @@
     li{
         margin-bottom: 4px;
     }
-    
+
     [data-tooltip] {
         position: relative;
         font-style: italic;
@@ -84,7 +84,7 @@
 
 <tr>
 <td width="160px" border="0px">
-<img src = "./pic/photo.jpg" style="margin-bottom:40px" align = "float: left"> 
+<img src = "./pic/photo.jpg" style="margin-bottom:40px" align = "float: left">
 </td>
 
 <td border="0px">
@@ -114,34 +114,27 @@
 </tr>
 </table>
 
-
-
 ### **Join Us!**
 
 I am looking for highly motivated and self-driven students. If you are interested in intelligent security and privacy techniques, send an email for Ph.D. or Master positions!
 
-
 <br>
 <br>
-
-
-
 
 ### **About Me**
 
-I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021. 
+I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021.
 
 From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* ***([MOSS](https://cs.nju.edu.cn/fxu/index.htm))*** research group, which is affiliated with the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology. *We enjoy working on projects to create an immersive, trustworthy, compassionate, and sustainable computing environment for individual, society, and ecology.*
 
-
 My research interests primarily include ***Data Trust***, ***Data-driven Security***, and ***Mobile AI***. Specifically,
+
 1. Implement joint hardware-software design to ensure the fairness, security, and privacy of data sharing. (e.g., ICASSP2023, TMC, WWW2021, MobiCom2021)
 2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
 3. Construct interesting, efficient, and secure mobile AI systems. (e.g., ICRA2024, ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020)
 
-
-
 ### **Awards**
+
 - MSR Asia StarTrack Scholars 2024 program
 - 中文信息学会 优秀博士学位论文
 - ACM SIGBED（中国）优博
@@ -150,24 +143,22 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - “紫金山英才”栖霞先锋计划高层次创新创业人才
 <!-- - “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
 
-
-
 ### **Selected Publications** (chronological order)
+
+- **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. *ACM Multimedia **(MM 2024)***.
 - Han Gao, Yating Liu, Fang Cao, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction. *IEEE International Conference on Robotics and Automation **(ICRA 2024)***.
 - Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. *IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024)***. [paper](publications/ICASSP2024_MuSR.pdf)
-- Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. [paper](publications/MM2023-SIEGE.pdf) 
-- Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf) 
-- **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023, Oral)***. [paper](publications/ICASSP2023-GAPter.pdf) 
-- Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. [paper](publications/TMC-LEAP.pdf) 
-- Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. *The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2022)***. [paper](publications/TrustCom2022-AVMiner.pdf) 
-- Xiaopeng Ke, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Towards Practical and Efficient Long Video Summary. *2022 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2022)***. [paper](publications/ICASSP2022.pdf) 
+- Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. [paper](publications/MM2023-SIEGE.pdf)
+- Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf)
+- **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2023, Oral)***. [paper](publications/ICASSP2023-GAPter.pdf)
+- Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. *IEEE Transactions on Mobile Computing **(TMC)***. [paper](publications/TMC-LEAP.pdf)
+- Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. *The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2022)***. [paper](publications/TrustCom2022-AVMiner.pdf)
+- Xiaopeng Ke, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Towards Practical and Efficient Long Video Summary. *2022 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2022)***. [paper](publications/ICASSP2022.pdf)
 - **吴昊**, 王浩, 苏醒, 李明昊, 许封元, 仲盛. 自动驾驶系统中视觉感知模块的安全测试. *计算机研究与发展 2022*. [paper](publications/JCRD2022.pdf)
-- Ligeng Chen, Zhongling He, **Hao Wu**, Fengyuan Xu, Yi Qian, and Bing Mao. DIComP: Lightweight Data-Driven Inference of Binary Compuler Provenance with High Accuracy. *2022 International Conference on Software Analysis, Evolution, and Reengineering **(SANER 2022)***.[Paper](publications/SANER2022-DIComP.pdf) 
+- Ligeng Chen, Zhongling He, **Hao Wu**, Fengyuan Xu, Yi Qian, and Bing Mao. DIComP: Lightweight Data-Driven Inference of Binary Compuler Provenance with High Accuracy. *2022 International Conference on Software Analysis, Evolution, and Reengineering **(SANER 2022)***.[Paper](publications/SANER2022-DIComP.pdf)
 - **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. *The 30th Web Conference **(WWW 2021)***. [paper](publications/WWW2021-DAPter.pdf) [slides](slides/WWW-DAPter-slides.pdf)
 - **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. *The 27th Annual International Conference On Mobile Computing And Networking **(MobiCom 2021)***. [paper](publications/MobiCom2021-PECAM.pdf) [slides](slides/MobiCom2021-PECAM-slides.pdf)
 - **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. *18th ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys 2020)***. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
-
-
 
 ### **Fundings**
 <!-- - 2024, 企业合作课题, Web3安全情报分析 2，主持 -->
@@ -177,9 +168,6 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - 2022-2025, 国家重点研发计划项目，子课题负责人
 - 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究，主持
 - 2022-2025, 江苏省青年基金, 端边协同的移动智能计算中的支撑技术研究，主持
-
-
-
 
 ### **Academic Services**
 
@@ -193,10 +181,6 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - IEEE MASS 2024 TPC
 - IEEE ICDCS 2024 TPC
 - EAI ICECI 2024 Web Chair
-
-
-
-
 
 <script type="text/javascript">
     items = document.getElementsByTagName("a");
