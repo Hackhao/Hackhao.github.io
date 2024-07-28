@@ -145,8 +145,8 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 ### **Selected Publications** (chronological order)
 
-- **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. *ACM Multimedia **(MM 2024)***.
-- Han Gao, Yating Liu, Fang Cao, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction. *IEEE International Conference on Robotics and Automation **(ICRA 2024)***.
+- **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. *ACM Multimedia **(MM 2024)***. [paper](publications/MM2024_CoAst.pdf)
+- Han Gao, Yating Liu, Fang Cao, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction. *IEEE International Conference on Robotics and Automation **(ICRA 2024)***. [paper](publications/ICRA24_VIDAR.pdf)
 - Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. *IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024)***. [paper](publications/ICASSP2024_MuSR.pdf)
 - Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. *ACM International Conference on Multimedia **(MM 2023)***. [paper](publications/MM2023-SIEGE.pdf)
 - Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. *ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)***. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf)
