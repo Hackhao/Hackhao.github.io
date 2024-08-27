@@ -162,10 +162,12 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. *18th ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys 2020)***. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
 
 ### **Fundings**
+
+- 2025-2029, NSFC重点项目, 任务负责人
 <!-- - 2024, 企业合作课题, Web3安全情报分析 2，主持 -->
-- 2024-2026, 国自然青年科学基金, 云边端融合下隐私增强的高可用智能计算协同技术，主持
+- 2024-2026, NSFC青年科学基金, 云边端融合下隐私增强的高可用智能计算协同技术，主持
 <!-- - 2023, 企业合作课题, Web3安全情报分析 1，主持 -->
-- 2023-2024, 国自然基金，任务负责人
+- 2023-2024, NSFC基金，任务负责人
 - 2022-2025, 国家重点研发计划项目，子课题负责人
 - 2022,CCF-华为胡杨林基金, 面向隐私计算的边缘协同训练新范式研究，主持
 - 2022-2025, 江苏省青年基金, 端边协同的移动智能计算中的支撑技术研究，主持
