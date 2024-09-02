@@ -145,6 +145,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 ### **Selected Publications** (chronological order)
 
+- Shucheng Li, Jingzhou Zhu, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Multi-Label and Evolvable Dataset Preparation for Web-Based Object Detection. *ACM Transactions on Knowledge Discovery from Data **(TKDD)***.
 - **Hao Wu**, Yuhang Gong, Xiaopeng Ke, Hanzhong Liang, Fengyuan Xu, Yunxin Liu, and Sheng Zhong. TIM: Enabling Large-scale White-box Testing on In-App Deep Learning Models. *IEEE Transactions on Information Forensics and Security **(TIFS)***.
 - **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. *ACM Multimedia **(MM 2024)***. [paper](publications/MM2024_CoAst.pdf)
 - Han Gao, Yating Liu, Fang Cao, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction. *IEEE International Conference on Robotics and Automation **(ICRA 2024)***. [paper](publications/ICRA24_VIDAR.pdf)
