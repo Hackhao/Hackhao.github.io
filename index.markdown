@@ -130,8 +130,8 @@ From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* 
 My research interests primarily include ***Data Trust***, ***Data-driven Security***, and ***Mobile AI***. Specifically,
 
 1. Implement joint hardware-software design to ensure the fairness, security, and privacy of data sharing. (e.g., MM2024, ICASSP2023, TMC, WWW2021, MobiCom2021)
-2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
-3. Construct interesting, efficient, and secure mobile AI systems. (e.g., ICRA2024, ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020)
+2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., TIFS2024, MM2024, MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
+3. Construct interesting, efficient, and secure mobile AI systems. (e.g., TKDD, ICRA2024, ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020)
 
 ### **Awards**
 
@@ -142,6 +142,12 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - 南京大学计算机科学与技术系优秀博士论文
 - “紫金山英才”栖霞先锋计划高层次创新创业人才
 <!-- - “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
+
+### **Preprints**
+
+- Making Every Frame Matter: Continuous Video Understanding for Large
+ Models via Adaptive State Modeling. [paper](https://arxiv.org/abs/2410.14993)
+- Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
 
 ### **Selected Publications** (chronological order)
 
