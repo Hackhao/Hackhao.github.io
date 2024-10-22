@@ -133,16 +133,6 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., TIFS2024, MM2024, MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
 3. Construct interesting, efficient, and secure mobile AI systems. (e.g., TKDD, ICRA2024, ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020)
 
-### **Awards**
-
-- MSR Asia StarTrack Scholars 2024 program
-- 中文信息学会 优秀博士学位论文
-- ACM SIGBED（中国）优博
-- 江苏省计算机学会优秀博士学位论文
-- 南京大学计算机科学与技术系优秀博士论文
-- “紫金山英才”栖霞先锋计划高层次创新创业人才
-<!-- - “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
-
 ### **Preprints**
 
 - Making Every Frame Matter: Continuous Video Understanding for Large
@@ -167,6 +157,16 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 - **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. *The 30th Web Conference **(WWW 2021)***. [paper](publications/WWW2021-DAPter.pdf) [slides](slides/WWW-DAPter-slides.pdf)
 - **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. *The 27th Annual International Conference On Mobile Computing And Networking **(MobiCom 2021)***. [paper](publications/MobiCom2021-PECAM.pdf) [slides](slides/MobiCom2021-PECAM-slides.pdf)
 - **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. *18th ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys 2020)***. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
+
+### **Awards**
+
+- MSR Asia StarTrack Scholars 2024 program
+- 中文信息学会 优秀博士学位论文
+- ACM SIGBED（中国）优博
+- 江苏省计算机学会优秀博士学位论文
+- 南京大学计算机科学与技术系优秀博士论文
+- “紫金山英才”栖霞先锋计划高层次创新创业人才
+<!-- - “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
 
 ### **Fundings**
 
