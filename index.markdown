@@ -147,7 +147,8 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 #### 2024
 
-- Shimao Xu, Xiaopeng ke, and **Hao Wu**. CAPter: Controllable Data Privacy Enhancement for Deep Learning Inference Services. *The 21st IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC 2024)***.
+- Lizhi Sun, Jingzhou Zhu, Boyu Chang, Yixin Xu, Bo Yang, **Hao Wu**, Fengyuan Xu, Sheng Zhong. TTFL: Towards Trustworthy Federated Learning with Arm Confidential Computing. *IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2024)***.
+- Shimao Xu, Xiaopeng ke, and **Hao Wu**. CAPter: Controllable Data Privacy Enhancement for Deep Learning Inference Services. *IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC 2024)***.
 - Shucheng Li, Jingzhou Zhu, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Multi-Label and Evolvable Dataset Preparation for Web-Based Object Detection. *ACM Transactions on Knowledge Discovery from Data **(TKDD)***.
 - **Hao Wu**, Yuhang Gong, Xiaopeng Ke, Hanzhong Liang, Fengyuan Xu, Yunxin Liu, and Sheng Zhong. TIM: Enabling Large-scale White-box Testing on In-App Deep Learning Models. *IEEE Transactions on Information Forensics and Security **(TIFS)***.
 - **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. *ACM Multimedia **(MM 2024)***. [paper](publications/MM2024_CoAst.pdf)
