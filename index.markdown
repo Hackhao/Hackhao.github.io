@@ -94,7 +94,7 @@
 </tr>
 <!-- <br> -->
 <div style="height:10px;width:1px"></div>
-<tr><div style="font-weight:bold;display:inline;font-size:20px">Assistant Researcher </div><div style="font-size:20px;display:inline">, Nanjing University.</div></tr>
+<tr><div style="font-weight:bold;display:inline;font-size:20px">Tenure-track Assistant Professor </div><div style="font-size:20px;display:inline">, Nanjing University.</div></tr>
 <div style="height:5px;width:1px"></div>
 <tr>
     <p style="margin-top: 4px;margin-bottom:-20px;">
