@@ -138,8 +138,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 #### 2024
 
 - Attention Is All You Need for LLM-based Code Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
-- Making Every Frame Matter: Continuous Video Understanding for Large
- Models via Adaptive State Modeling. [paper](https://arxiv.org/abs/2410.14993)
+- Making Every Frame Matter: Continuous Activity Recognition in Streaming Video via Adaptive Video Context Modeling. [paper](https://arxiv.org/abs/2410.14993)
 - Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
 - FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg. [paper](https://arxiv.org/pdf/2410.19548)
 
