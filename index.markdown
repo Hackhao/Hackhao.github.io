@@ -135,8 +135,6 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 ### **Preprints**
 
-#### 2024
-
 - Attention Is All You Need for LLM-based Code Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
 - Making Every Frame Matter: Continuous Activity Recognition in Streaming Video via Adaptive Video Context Modeling. [paper](https://arxiv.org/abs/2410.14993)
 - Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
@@ -144,9 +142,13 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 ### **Selected Publications** (chronological order)
 
+#### 2025
+
+- Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks. *IEEE Symposium on Security and Privacy **(S&P 2025)***.
+
 #### 2024
 
-- Lizhi Sun, Jingzhou Zhu, Boyu Chang, Yixin Xu, Bo Yang, **Hao Wu**, Fengyuan Xu, Sheng Zhong. TTFL: Towards Trustworthy Federated Learning with Arm Confidential Computing. *IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2024)***.
+- Lizhi Sun, Jingzhou Zhu, Boyu Chang, Yixin Xu, Bo Yang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. TTFL: Towards Trustworthy Federated Learning with Arm Confidential Computing. *IEEE International Conference on Trust, Security and Privacy in Computing and Communications **(TrustCom 2024)***.
 - Shimao Xu, Xiaopeng ke, and **Hao Wu**. CAPter: Controllable Data Privacy Enhancement for Deep Learning Inference Services. *IEEE International Conference on Ubiquitous Intelligence and Computing **(UIC 2024)***.
 - Shucheng Li, Jingzhou Zhu, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Multi-Label and Evolvable Dataset Preparation for Web-Based Object Detection. *ACM Transactions on Knowledge Discovery from Data **(TKDD)***.
 - **Hao Wu**, Yuhang Gong, Xiaopeng Ke, Hanzhong Liang, Fengyuan Xu, Yunxin Liu, and Sheng Zhong. TIM: Enabling Large-scale White-box Testing on In-App Deep Learning Models. *IEEE Transactions on Information Forensics and Security **(TIFS)***.
