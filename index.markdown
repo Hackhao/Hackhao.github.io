@@ -135,8 +135,17 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 ### **Preprints**
 
+#### LLM for Code
+
 - Attention Is All You Need for LLM-based Code Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
+
+#### Streaming Video Understanding
+
+- StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition. [paper](https://arxiv.org/abs/2503.06220)
 - Making Every Frame Matter: Continuous Activity Recognition in Streaming Video via Adaptive Video Context Modeling. [paper](https://arxiv.org/abs/2410.14993)
+
+#### Data Security
+
 - Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
 - FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg. [paper](https://arxiv.org/pdf/2410.19548)
 
