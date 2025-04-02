@@ -153,6 +153,7 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 #### 2025
 
+- Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models *ACM International Conference on the Foundations of Software Engineering **(FSE 2025)***.
 - Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks. *IEEE Symposium on Security and Privacy **(S&P 2025)***.
 
 #### 2024
