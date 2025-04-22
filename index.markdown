@@ -137,7 +137,9 @@ My research interests primarily include ***Data Trust***, ***Data-driven Securit
 
 #### LLM for Code
 
-- Attention Is All You Need for LLM-based Code Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
+- Everything You Wanted to Know About LLM-based Vulnerability
+Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
+- If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
 
 #### Streaming Video Understanding
 
