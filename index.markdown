@@ -148,13 +148,13 @@ Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
 
 #### Data Security
 
-- Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
 - FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg. [paper](https://arxiv.org/pdf/2410.19548)
 
 ### **Selected Publications** (chronological order)
 
 #### 2025
 
+- Likun Zhang, **Hao Wu**, Lingcui Zhang, Fengyuan Xu, Jin Cao, Fenghua Li, Ben Niu. Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? *ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2025)***. [paper](https://arxiv.org/abs/2409.15781)
 - Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models *ACM International Conference on the Foundations of Software Engineering **(FSE 2025)***.
 - Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks. *IEEE Symposium on Security and Privacy **(S&P 2025)***.
 
