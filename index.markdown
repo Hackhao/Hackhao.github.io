@@ -133,8 +133,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### LLM for Code
 
-- Everything You Wanted to Know About LLM-based Vulnerability
-Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
+- Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
 - If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
 
 #### Streaming Video Understanding
