@@ -124,14 +124,16 @@ I am looking for highly motivated and self-driven students. If you are intereste
 ### **About Me**
 
 I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021.
+From Feb. 2022, I have joined the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology.
+<!-- *We enjoy working on projects to create an immersive, trustworthy, compassionate, and sustainable computing environment for individual, society, and ecology.* -->
 
-From Feb. 2022, I have joined ***MO****bile* ***S****ystems &* ***S****ecurity* ***([MOSS](https://cs.nju.edu.cn/fxu/index.htm))*** research group, which is affiliated with the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology. *We enjoy working on projects to create an immersive, trustworthy, compassionate, and sustainable computing environment for individual, society, and ecology.*
+My research interests primarily include ***LLM Security*** and ***Trustworthy Multimodal Agent***.
 
-My research interests primarily include ***Data Trust***, ***Data-driven Security***, and ***Mobile AI***. Specifically,
+ <!-- Specifically,
 
 1. Implement joint hardware-software design to ensure the fairness, security, and privacy of data sharing. (e.g., MM2024, ICASSP2023, TMC, WWW2021, MobiCom2021)
 2. Employ data-driven approaches to detect, audit, and fix security issues in intelligent software and distributed systems. (e.g., TIFS2024, MM2024, MM2023, TrustCom2022, SANER2022, 计算机研究与发展2022)
-3. Construct interesting, efficient, and secure mobile AI systems. (e.g., TKDD, ICRA2024, ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020)
+3. Construct interesting, efficient, and secure mobile AI systems. (e.g., TKDD, ICRA2024, ICASSP2024, SIGIR2023, ICASSP2022, MobiSys2020) -->
 
 ### **Preprints**
 
