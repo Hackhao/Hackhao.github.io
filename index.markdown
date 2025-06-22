@@ -149,6 +149,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2025
 
+- Feng Lyu, Lijuan He, Mingliu Liu, Sijing Duan, **Hao Wu**, Jieyu Zhou, Yi Ding, Zaixun Ling, and Yibo Cui. Auto-UIT: Automated UAV Inspection Trajectory Generation from  Noisy Sparse 3D Point Cloud. *The 31st Annual International Conference On Mobile Computing And Networking **(MobiCom 2025)***
 - Likun Zhang, **Hao Wu**, Lingcui Zhang, Fengyuan Xu, Jin Cao, Fenghua Li, Ben Niu. Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? *ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2025)***. [paper](https://arxiv.org/abs/2409.15781)
 - Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models *ACM International Conference on the Foundations of Software Engineering **(FSE 2025)***.
 - Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks. *IEEE Symposium on Security and Privacy **(S&P 2025)***.
