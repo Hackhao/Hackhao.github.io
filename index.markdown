@@ -141,6 +141,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2025
 
+- Xin Zhao, Hao Han, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. UTRDCL: Stealthy DCL-Based Obfuscation and Its Attacks and Defenses in Android. *IEEE Transactions on Information Forensics and Security **(TIFS)***
 - Yixin Xu, **Hao Wu**, Jingzhou Zhu, Fengyuan Xu, Sheng Zhong. PriCAF: Privacy-Preserving Contribution Assessment in Federated Learning Before Model Training. *ACM Multimedia **(MM 2025)***
 - Xin Ding, **Hao Wu**, Yifan Yang, Shiqi Jiang, Donglin Bai, Zhibo Chen, and Ting Cao. StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition. *International Conference on Computer Vision **(ICCV 2025)*** [paper](https://arxiv.org/abs/2503.06220)
 - Feng Lyu, Lijuan He, Mingliu Liu, Sijing Duan, **Hao Wu**, Jieyu Zhou, Yi Ding, Zaixun Ling, and Yibo Cui. Auto-UIT: Automated UAV Inspection Trajectory Generation from  Noisy Sparse 3D Point Cloud. *The 31st Annual International Conference On Mobile Computing And Networking **(MobiCom 2025)***
