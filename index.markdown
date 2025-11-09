@@ -142,6 +142,11 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Selected Publications** (chronological order)
 
+
+#### 2026
+
+- Wendi Li, Hao Wu, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests. *The 40th Annual AAAI Conference on Artificial Intelligence **(AAAI 2026)***.
+
 #### 2025
 
 - Fei Zeng, Feng Lyu, **Hao Wu**, Zhanxi Li, Shucheng Li, and Fengyuan Xu. H2O: Heterogeneity-Aware Hierarchical Orchestration for Memory-Efficient On-Device LLM Inference. *IEEE Transactions on Mobile Computing **(TMC)***.
