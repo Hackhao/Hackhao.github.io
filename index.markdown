@@ -136,8 +136,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs. [Paper](https://arxiv.org/abs/2507.16773)(Workshop Paper)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
 - If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
-<!-- - Making Every Frame Matter: Continuous Activity Recognition in Streaming Video via Adaptive Video Context Modeling. [paper](https://arxiv.org/abs/2410.14993)
-- FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg. [paper](https://arxiv.org/pdf/2410.19548) -->
 
 
 ### **Selected Publications** (chronological order)
