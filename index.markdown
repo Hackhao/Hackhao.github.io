@@ -192,6 +192,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Awards**
 
+- 南京大学首届“苗圃计划” 2025
 - MSR Asia StarTrack Scholars 2024 program
 - 中文信息学会 优秀博士学位论文
 - ACM SIGBED（中国）优博
