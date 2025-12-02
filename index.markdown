@@ -143,7 +143,8 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
-- Wendi Li, Hao Wu, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests. *The 40th Annual AAAI Conference on Artificial Intelligence **(AAAI 2026)***.
+- Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection. *The 32nd Annual International Conference On Mobile Computing And Networking **(MobiCom 2026)***.
+- Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests. *The 40th Annual AAAI Conference on Artificial Intelligence **(AAAI 2026)***.
 
 #### 2025
 
