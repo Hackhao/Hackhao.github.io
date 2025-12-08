@@ -143,6 +143,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting. *IEEE International Conference on Computer Communications **(INFOCOM 2026)***.
 - Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection. *The 32nd Annual International Conference On Mobile Computing And Networking **(MobiCom 2026)***.
 - Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests. *The 40th Annual AAAI Conference on Artificial Intelligence **(AAAI 2026)***.
 
@@ -155,7 +156,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - Xin Ding, **Hao Wu**, Yifan Yang, Shiqi Jiang, Donglin Bai, Zhibo Chen, and Ting Cao. StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition. *International Conference on Computer Vision **(ICCV 2025)*** [paper](https://arxiv.org/abs/2503.06220)
 - Feng Lyu, Lijuan He, Mingliu Liu, Sijing Duan, **Hao Wu**, Jieyu Zhou, Yi Ding, Zaixun Ling, and Yibo Cui. Auto-UIT: Automated UAV Inspection Trajectory Generation from  Noisy Sparse 3D Point Cloud. *The 31st Annual International Conference On Mobile Computing And Networking **(MobiCom 2025)***
 - Likun Zhang, **Hao Wu**, Lingcui Zhang, Fengyuan Xu, Jin Cao, Fenghua Li, Ben Niu. Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? *ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2025)***. [paper](https://arxiv.org/abs/2409.15781)
-- Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models *ACM International Conference on the Foundations of Software Engineering **(FSE 2025)***.
+- Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models. *ACM International Conference on the Foundations of Software Engineering **(FSE 2025)***.
 - Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks. *IEEE Symposium on Security and Privacy **(S&P 2025)***.
 
 #### 2024
