@@ -131,11 +131,16 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Preprints**
 
-- Video-in-the-Loop: Efficient Two-Stage Framework for Temporal Video Grounding and Multi-Choice QA.
+- Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents? [Paper](https://arxiv.org/abs/2601.12349)
+- Discovering 100+ Compiler Defects in 72 Hours via LLM-Driven Semantic Logic Recomposition. [Paper](https://arxiv.org/abs/2601.12360)
+- A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. [Paper](https://arxiv.org/abs/2512.16538)
+- Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation. [Paper](https://arxiv.org/abs/2509.18934)
+- Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning. [Paper](https://arxiv.org/abs/2510.04022)
 - AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation. [Paper](https://arxiv.org/abs/2509.24387)
 - When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs. [Paper](https://arxiv.org/abs/2507.16773)(Workshop Paper)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
 - If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
+- "MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale. [Paper](https://arxiv.org/abs/2512.03775)
 
 
 ### **Selected Publications** (chronological order)
