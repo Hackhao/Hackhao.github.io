@@ -154,7 +154,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting. *IEEE International Conference on Computer Communications **(INFOCOM 2026)***.
 - Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection. *The 32nd Annual International Conference On Mobile Computing And Networking **(MobiCom 2026)***.
 - Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests. *The 40th Annual AAAI Conference on Artificial Intelligence **(AAAI 2026)***.
-
+- Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, and **Hao Wu**. Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching. *The IEEE International Conference on Multimedia & Expo **(ICME 2026)***
 
 
 #### 2025
