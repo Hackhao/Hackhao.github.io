@@ -131,6 +131,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Preprints**
 
+- Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - From Transactions to Exploits: Automated PoC Synthesis for Real-World DeFi Attacks. [Paper](https://arxiv.org/abs/2601.16681)
 - Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents? [Paper](https://arxiv.org/abs/2601.12349)
 - Discovering 100+ Compiler Defects in 72 Hours via LLM-Driven Semantic Logic Recomposition. [Paper](https://arxiv.org/abs/2601.12360)
