@@ -150,6 +150,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- Jun Xiao, Qinhui Gu, Ligeng Chen, Lizhi Sun, Zicheng Wang, Yinggang Guo, Lu Liu, **Hao Wu**, Borui Li. Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems). *USENIX Symposium on Operating Systems Design and Implementation **(OSDI 2026)***
 - Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, and **Hao Wu**. Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching. *The IEEE International Conference on Multimedia & Expo **(ICME 2026)***
 - Jie Zhao, Feng Lyu, **Hao Wu**, Fan Wu, Shucheng Li. Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing. *IEEE Transactions on Networking **(IEEE ToN)***.
 - Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting. *IEEE International Conference on Computer Communications **(INFOCOM 2026)***.
