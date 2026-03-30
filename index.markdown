@@ -97,7 +97,7 @@
 <tr><div style="display:inline;font-size:20px">Tenure-track Assistant Professor, PhD Supervisor</div></tr>
 
 <div style="height:0px;width:1px"></div>
-<tr><div style="display:inline;font-size:20px">Selected for a National-Level Talent Program</div></tr>
+<tr><div style="display:inline;font-size:20px">Nanjing University</div></tr>
 
 <div style="height:5px;width:1px"></div>
 <tr>
