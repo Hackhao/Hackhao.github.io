@@ -154,6 +154,8 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- Fan Wu, Haoye Pan, **Hao Wu**, Kai Qian, Shucheng Li, Feng Lyu. SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency. *International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2026)***
+- Shucheng Li, Weixuan Xu, Le Jiang, **Hao Wu**, Fengyuan Xu, Fan Wu, Feng Lyu. Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision. *International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2026)***
 - Jun Xiao, Qinhui Gu, Ligeng Chen, Lizhi Sun, Zicheng Wang, Yinggang Guo, Lu Liu, **Hao Wu**, Borui Li. Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems). *USENIX Symposium on Operating Systems Design and Implementation **(OSDI 2026)***
 - Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, and **Hao Wu**. Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching. *The IEEE International Conference on Multimedia & Expo **(ICME 2026)***
 - Jie Zhao, Feng Lyu, **Hao Wu**, Fan Wu, Shucheng Li. Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing. *IEEE Transactions on Networking **(IEEE ToN)***.
