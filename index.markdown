@@ -135,6 +135,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Preprints**
 
+- Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning. [Paper](https://arxiv.org/abs/2604.02318v1)
 - Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - From Transactions to Exploits: Automated PoC Synthesis for Real-World DeFi Attacks. [Paper](https://arxiv.org/abs/2601.16681)
 - Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents? [Paper](https://arxiv.org/abs/2601.12349)
