@@ -155,6 +155,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- Zhengyang Shan, Xu Qian, Jiayun Xin, Minghui Xu, Yue Zhang, Zhen Yang, Hao Wu, Xiuzhen Cheng. SAGE: Signal-Amplified Guided Embeddings for Vulnerability Detection. *ACM SIGSOFT International Symposium on Software Testing and Analysis **(ISSTA 2026)***.
 - Fan Wu, Haoye Pan, **Hao Wu**, Kai Qian, Shucheng Li, Feng Lyu. SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency. *International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2026)***
 - Shucheng Li, Weixuan Xu, Le Jiang, **Hao Wu**, Fengyuan Xu, Fan Wu, Feng Lyu. Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision. *International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2026)***
 - Jun Xiao, Qinhui Gu, Ligeng Chen, Lizhi Sun, Zicheng Wang, Yinggang Guo, Lu Liu, **Hao Wu**, Borui Li. Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems). *USENIX Symposium on Operating Systems Design and Implementation **(OSDI 2026)***
