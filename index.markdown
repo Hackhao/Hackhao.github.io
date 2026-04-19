@@ -237,16 +237,10 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Academic Services**
 
-- ACM SIGBED中国 委员
 - 中文信息学会 大数据安全与隐私计算专委会 委员
-- 中文信息学会 青年工作委员会 委员
-- CCF系统软件专业委员会 委员
+- 中国网络空间安全学会 宣传工作委员会 委员
+- ACM SIGBED中国 委员
 
-- IEEE TMC Reviewer
-- IEEE MSN 2023 TPC
-- IEEE MASS 2024 TPC
-- IEEE ICDCS 2024 TPC
-- EAI ICECI 2024 Web Chair
 
 <script type="text/javascript">
     items = document.getElementsByTagName("a");
