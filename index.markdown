@@ -155,62 +155,62 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
-- **[ICDCS 2026]** Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
-- **[ISSTA 2026]** Zhengyang Shan, Xu Qian, Jiayun Xin, Minghui Xu, Yue Zhang, Zhen Yang, **Hao Wu**, Xiuzhen Cheng. SAGE: Signal-Amplified Guided Embeddings for Vulnerability Detection.
-- **[SIGIR 2026]** Fan Wu, Haoye Pan, **Hao Wu**, Kai Qian, Shucheng Li, Feng Lyu. SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency. 
-- **[SIGIR 2026]** Shucheng Li, Weixuan Xu, Le Jiang, **Hao Wu**, Fengyuan Xu, Fan Wu, Feng Lyu. Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision. 
-- **[OSDI 2026]** Jun Xiao, Qinhui Gu, Ligeng Chen, Lizhi Sun, Zicheng Wang, Yinggang Guo, Lu Liu, **Hao Wu**, Borui Li. Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems).
-- **[ICME 2026]** Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, and **Hao Wu**. Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching.
-- **[ToN 2026]** Jie Zhao, Feng Lyu, **Hao Wu**, Fan Wu, Shucheng Li. Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing.
-- **[INFOCOM 2026]** Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting.
-- **[MobiCom 2026]** Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection.
-- **[AAAI 2026]** Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests.
+- <span style="color:#1565C0">**[ICDCS 2026]**</span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
+- <span style="color:#1565C0">**[ISSTA 2026]**</span> Zhengyang Shan, Xu Qian, Jiayun Xin, Minghui Xu, Yue Zhang, Zhen Yang, **Hao Wu**, Xiuzhen Cheng. SAGE: Signal-Amplified Guided Embeddings for Vulnerability Detection.
+- <span style="color:#1565C0">**[SIGIR 2026]**</span> Fan Wu, Haoye Pan, **Hao Wu**, Kai Qian, Shucheng Li, Feng Lyu. SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency. 
+- <span style="color:#1565C0">**[SIGIR 2026]**</span> Shucheng Li, Weixuan Xu, Le Jiang, **Hao Wu**, Fengyuan Xu, Fan Wu, Feng Lyu. Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision. 
+- <span style="color:#1565C0">**[OSDI 2026]**</span> Jun Xiao, Qinhui Gu, Ligeng Chen, Lizhi Sun, Zicheng Wang, Yinggang Guo, Lu Liu, **Hao Wu**, Borui Li. Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems).
+- <span style="color:#1565C0">**[ICME 2026]**</span> Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, and **Hao Wu**. Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching.
+- <span style="color:#1565C0">**[ToN 2026]**</span> Jie Zhao, Feng Lyu, **Hao Wu**, Fan Wu, Shucheng Li. Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing.
+- <span style="color:#1565C0">**[INFOCOM 2026]**</span> Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting.
+- <span style="color:#1565C0">**[MobiCom 2026]**</span> Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection.
+- <span style="color:#1565C0">**[AAAI 2026]**</span> Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests.
 
 
 #### 2025
 
-- **[TMC 2025]** Fei Zeng, Feng Lyu, **Hao Wu**, Zhanxi Li, Shucheng Li, and Fengyuan Xu. H2O: Heterogeneity-Aware Hierarchical Orchestration for Memory-Efficient On-Device LLM Inference.
-- **[ASE 2025]** Yi Qian, Fei Peng, **Hao Wu**, Ligeng Chen, and Bing Mao. Uncovering Prompt Elements: Cloning System Prompts from Behavioral Traces.
-- **[TIFS 2025]** Xin Zhao, Hao Han, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. UTRDCL: Stealthy DCL-Based Obfuscation and Its Attacks and Defenses in Android.
-- **[MM 2025]** Yixin Xu, **Hao Wu**, Jingzhou Zhu, Fengyuan Xu, Sheng Zhong. PriCAF: Privacy-Preserving Contribution Assessment in Federated Learning Before Model Training.
-- **[ICCV 2025]** Xin Ding, **Hao Wu**, Yifan Yang, Shiqi Jiang, Donglin Bai, Zhibo Chen, and Ting Cao. StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition. [paper](https://arxiv.org/abs/2503.06220)
-- **[MobiCom 2025]** Feng Lyu, Lijuan He, Mingliu Liu, Sijing Duan, **Hao Wu**, Jieyu Zhou, Yi Ding, Zaixun Ling, and Yibo Cui. Auto-UIT: Automated UAV Inspection Trajectory Generation from  Noisy Sparse 3D Point Cloud. 
-- **[KDD 2025]** Likun Zhang, **Hao Wu**, Lingcui Zhang, Fengyuan Xu, Jin Cao, Fenghua Li, Ben Niu. Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
-- **[FSE 2025]** Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models.
-- **[Oakland 2025]** Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks.
+- <span style="color:#1565C0">**[TMC 2025]**</span> Fei Zeng, Feng Lyu, **Hao Wu**, Zhanxi Li, Shucheng Li, and Fengyuan Xu. H2O: Heterogeneity-Aware Hierarchical Orchestration for Memory-Efficient On-Device LLM Inference.
+- <span style="color:#1565C0">**[ASE 2025]**</span> Yi Qian, Fei Peng, **Hao Wu**, Ligeng Chen, and Bing Mao. Uncovering Prompt Elements: Cloning System Prompts from Behavioral Traces.
+- <span style="color:#1565C0">**[TIFS 2025]**</span> Xin Zhao, Hao Han, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. UTRDCL: Stealthy DCL-Based Obfuscation and Its Attacks and Defenses in Android.
+- <span style="color:#1565C0">**[MM 2025]**</span> Yixin Xu, **Hao Wu**, Jingzhou Zhu, Fengyuan Xu, Sheng Zhong. PriCAF: Privacy-Preserving Contribution Assessment in Federated Learning Before Model Training.
+- <span style="color:#1565C0">**[ICCV 2025]**</span> Xin Ding, **Hao Wu**, Yifan Yang, Shiqi Jiang, Donglin Bai, Zhibo Chen, and Ting Cao. StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition. [paper](https://arxiv.org/abs/2503.06220)
+- <span style="color:#1565C0">**[MobiCom 2025]**</span> Feng Lyu, Lijuan He, Mingliu Liu, Sijing Duan, **Hao Wu**, Jieyu Zhou, Yi Ding, Zaixun Ling, and Yibo Cui. Auto-UIT: Automated UAV Inspection Trajectory Generation from  Noisy Sparse 3D Point Cloud. 
+- <span style="color:#1565C0">**[KDD 2025]**</span> Likun Zhang, **Hao Wu**, Lingcui Zhang, Fengyuan Xu, Jin Cao, Fenghua Li, Ben Niu. Training Data Attribution: Was Your Model Secretly Trained On Data Created By Mine? [paper](https://arxiv.org/abs/2409.15781)
+- <span style="color:#1565C0">**[FSE 2025]**</span> Xing Su, Hanzhong Liang, **Hao Wu**, Ben Niu, Fengyuan Xu, and Sheng Zhong. DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models.
+- <span style="color:#1565C0">**[Oakland 2025]**</span> Xiao Li, Yue Li, **Hao Wu**, Yue Zhang, Kaidi Xu, Xiuzhen Cheng, Sheng Zhong, and Fengyuan Xu. Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks.
 
 #### 2024
 
-- **[TrustCom 2024]** Lizhi Sun, Jingzhou Zhu, Boyu Chang, Yixin Xu, Bo Yang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. TTFL: Towards Trustworthy Federated Learning with Arm Confidential Computing.
+- <span style="color:#1565C0">**[TrustCom 2024]**</span> Lizhi Sun, Jingzhou Zhu, Boyu Chang, Yixin Xu, Bo Yang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. TTFL: Towards Trustworthy Federated Learning with Arm Confidential Computing.
 - Shimao Xu, Xiaopeng ke, and **Hao Wu**. CAPter: Controllable Data Privacy Enhancement for Deep Learning Inference Services. **UIC 2024**.
-- **[TKDD 2024]** Shucheng Li, Jingzhou Zhu, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Multi-Label and Evolvable Dataset Preparation for Web-Based Object Detection.
-- **[TIFS 2024]** **Hao Wu**, Yuhang Gong, Xiaopeng Ke, Hanzhong Liang, Fengyuan Xu, Yunxin Liu, and Sheng Zhong. TIM: Enabling Large-scale White-box Testing on In-App Deep Learning Models.
-- **[MM 2024]** **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. [paper](publications/MM2024_CoAst.pdf)
-- **[ICRA 2024]** Han Gao, Yating Liu, Fang Cao, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction. [paper](publications/ICRA24_VIDAR.pdf)
-- **[ICASSP 2024]** Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. [paper](publications/ICASSP2024_MuSR.pdf)
+- <span style="color:#1565C0">**[TKDD 2024]**</span> Shucheng Li, Jingzhou Zhu, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Multi-Label and Evolvable Dataset Preparation for Web-Based Object Detection.
+- <span style="color:#1565C0">**[TIFS 2024]**</span> **Hao Wu**, Yuhang Gong, Xiaopeng Ke, Hanzhong Liang, Fengyuan Xu, Yunxin Liu, and Sheng Zhong. TIM: Enabling Large-scale White-box Testing on In-App Deep Learning Models.
+- <span style="color:#1565C0">**[MM 2024]**</span> **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. [paper](publications/MM2024_CoAst.pdf)
+- <span style="color:#1565C0">**[ICRA 2024]**</span> Han Gao, Yating Liu, Fang Cao, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction. [paper](publications/ICRA24_VIDAR.pdf)
+- <span style="color:#1565C0">**[ICASSP 2024]**</span> Han Gao, **Hao Wu**, Peiwen Dong, Yixin Xu, Fengyuan Xu, and Sheng Zhong. MuSR: Multi-Scale 3D Scenes Reconstruction based on Monocular Video. [paper](publications/ICASSP2024_MuSR.pdf)
 
 #### 2023
 
-- **[MM 2023]** Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. [paper](publications/MM2023-SIEGE.pdf)
-- **[SIGIR 2023]** Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf)
-- **[ICASSP 2023, Oral]** **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. [paper](publications/ICASSP2023-GAPter.pdf)
+- <span style="color:#1565C0">**[MM 2023]**</span> Shucheng Li, Runchuan Wang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. SIEGE: Self-Supervised Incremental Deep Graph Learning for Ethereum Phishing Scam Detection. [paper](publications/MM2023-SIEGE.pdf)
+- <span style="color:#1565C0">**[SIGIR 2023]**</span> Shucheng Li, Boyu Chang, Bo Yang, **Hao Wu**, Sheng Zhong, and Fengyuan Xu. Dataset Preparation for Arbitrary Object Detection: An Automatic Approach based on Web Information in English. [paper](publications/SIGIR2023-Web-dataset-preparation.pdf)
+- <span style="color:#1565C0">**[ICASSP 2023, Oral]**</span> **Hao Wu**, Bo Yang, Xiaopeng Ke, Siyi He, Fengyuan Xu, and Sheng Zhong. GAPter: Gray-box Data Protector for Deep Learning Inference Services at User Side. [paper](publications/ICASSP2023-GAPter.pdf)
 
 #### 2022
 
-- **[TMC 2022]** Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. [paper](publications/TMC-LEAP.pdf)
-- **[TrustCom 2022]** Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. [paper](publications/TrustCom2022-AVMiner.pdf)
-- **[ICASSP 2022]** Xiaopeng Ke, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Towards Practical and Efficient Long Video Summary. [paper](publications/ICASSP2022.pdf)
-- **[计算机研究与发展 2022]** **吴昊**, 王浩, 苏醒, 李明昊, 许封元, 仲盛. 自动驾驶系统中视觉感知模块的安全测试. [paper](publications/JCRD2022.pdf)
-- **[SANER 2022]** Ligeng Chen, Zhongling He, **Hao Wu**, Fengyuan Xu, Yi Qian, and Bing Mao. DIComP: Lightweight Data-Driven Inference of Binary Compuler Provenance with High Accuracy.[Paper](publications/SANER2022-DIComP.pdf)
+- <span style="color:#1565C0">**[TMC 2022]**</span> Lizhi Sun, Shuocheng Wang, **Hao Wu**, Yuhang Gong, Fengyuan Xu, Yunxin Liu, Hao Han, and Sheng Zhong. LEAP: TrustZone Based Developer-Friendly TEE for Intelligent Mobile Apps. [paper](publications/TMC-LEAP.pdf)
+- <span style="color:#1565C0">**[TrustCom 2022]**</span> Ligeng Chen, Zhongling He, **Hao Wu**, Yuhang Gong, and Bing Mao. AVMiner: Expansible and Semantic-Preserving Anti-Virus Labels Mining Method. [paper](publications/TrustCom2022-AVMiner.pdf)
+- <span style="color:#1565C0">**[ICASSP 2022]**</span> Xiaopeng Ke, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Towards Practical and Efficient Long Video Summary. [paper](publications/ICASSP2022.pdf)
+- <span style="color:#1565C0">**[计算机研究与发展 2022]**</span> **吴昊**, 王浩, 苏醒, 李明昊, 许封元, 仲盛. 自动驾驶系统中视觉感知模块的安全测试. [paper](publications/JCRD2022.pdf)
+- <span style="color:#1565C0">**[SANER 2022]**</span> Ligeng Chen, Zhongling He, **Hao Wu**, Fengyuan Xu, Yi Qian, and Bing Mao. DIComP: Lightweight Data-Driven Inference of Binary Compuler Provenance with High Accuracy.[Paper](publications/SANER2022-DIComP.pdf)
 
 #### 2021
 
-- **[WWW 2021]** **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. [paper](publications/WWW2021-DAPter.pdf) [slides](slides/WWW-DAPter-slides.pdf)
-- **[MobiCom 2021]** **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. [paper](publications/MobiCom2021-PECAM.pdf) [slides](slides/MobiCom2021-PECAM-slides.pdf)
+- <span style="color:#1565C0">**[WWW 2021]**</span> **Hao Wu**, Xuejin Tian, Yuhang Gong, Xing Su, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. [paper](publications/WWW2021-DAPter.pdf) [slides](slides/WWW-DAPter-slides.pdf)
+- <span style="color:#1565C0">**[MobiCom 2021]**</span> **Hao Wu**, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong. PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation. [paper](publications/MobiCom2021-PECAM.pdf) [slides](slides/MobiCom2021-PECAM-slides.pdf)
 
 #### 2020
 
-- **[MobiSys 2020]** **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
+- <span style="color:#1565C0">**[MobiSys 2020]**</span> **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
 
 ### **Awards**
 
