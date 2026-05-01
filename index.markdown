@@ -142,8 +142,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - Discovering 100+ Compiler Defects in 72 Hours via LLM-Driven Semantic Logic Recomposition. [Paper](https://arxiv.org/abs/2601.12360)
 - A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. [Paper](https://arxiv.org/abs/2512.16538)
 - Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation. [Paper](https://arxiv.org/abs/2509.18934)
-- Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning. [Paper](https://arxiv.org/abs/2510.04022)
-- AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation. [Paper](https://arxiv.org/abs/2509.24387)
 - When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs. [Paper](https://arxiv.org/abs/2507.16773)(Workshop Paper)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
 - If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
@@ -155,6 +153,8 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, **Hao Wu**, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee. Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning. [Paper](https://arxiv.org/abs/2510.04022)
+- <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Xin Ding, Jianyu Wei, Yifan Yang, Shiqi Jiang, Qianxi Zhang, **Hao Wu**, Fucheng Jia, Liang Mi, Yuxuan Yan, Weijun Wang, Yunxin Liu, Zhibo Chen, Ting Cao. AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation. [Paper](https://arxiv.org/abs/2509.24387)
 - <span style="color:#1565C0"><strong>[ICDCS 2026]</strong></span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
 - <span style="color:#1565C0"><strong>[ISSTA 2026]</strong></span> Zhengyang Shan, Xu Qian, Jiayun Xin, Minghui Xu, Yue Zhang, Zhen Yang, **Hao Wu**, Xiuzhen Cheng. SAGE: Signal-Amplified Guided Embeddings for Vulnerability Detection.
 - <span style="color:#1565C0"><strong>[SIGIR 2026]</strong></span> Fan Wu, Haoye Pan, **Hao Wu**, Kai Qian, Shucheng Li, Feng Lyu. SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency. 
