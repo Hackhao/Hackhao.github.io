@@ -153,6 +153,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[TMC 2026]</strong></span> Jingzhou Zhu, Lizhi Sun, Fang Cao, Bo Yang, Peiwen Dong, Wendi Li, Yixin Xu, **Hao Wu**, Hao Han, Fengyuan Xu, Sheng Zhong. SlimFit-Gens: Towards Low Bandwidth One-on-One Video Calls on COTS Smartphones.
 - <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, **Hao Wu**, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee. Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning. [Paper](https://arxiv.org/abs/2510.04022)
 - <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Xin Ding, Jianyu Wei, Yifan Yang, Shiqi Jiang, Qianxi Zhang, **Hao Wu**, Fucheng Jia, Liang Mi, Yuxuan Yan, Weijun Wang, Yunxin Liu, Zhibo Chen, Ting Cao. AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation. [Paper](https://arxiv.org/abs/2509.24387)
 - <span style="color:#1565C0"><strong>[ICDCS 2026]</strong></span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
