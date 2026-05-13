@@ -142,7 +142,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - Discovering 100+ Compiler Defects in 72 Hours via LLM-Driven Semantic Logic Recomposition. [Paper](https://arxiv.org/abs/2601.12360)
 - A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. [Paper](https://arxiv.org/abs/2512.16538)
 - Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation. [Paper](https://arxiv.org/abs/2509.18934)
-- When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs. [Paper](https://arxiv.org/abs/2507.16773)(Workshop Paper)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
 - If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
 - "MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale. [Paper](https://arxiv.org/abs/2512.03775)
@@ -212,6 +211,17 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 #### 2020
 
 - <span style="color:#1565C0"><strong>[MobiSys 2020]</strong></span> **Hao Wu**, Jinghao Feng, Xuejin Tian, Edward Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. [paper](publications/MobiSys2020.pdf) [slides](slides/MobiSys-EMO-slides.pdf)
+
+
+### **Workshops and Seminar** (chronological order)
+
+- <span style="color:#1565C0"><strong>[ChinaSys 2026]</strong></span> Technical Report: Uncovering and Mitigating Linux MGLRU's Generational Imbalance in Android at Scal. 
+- <span style="color:#1565C0"><strong>[ChinaSys 2026]</strong></span> AtomScene: Task-Aware Resource Management for Modern Mobile Systems via Atomic Scene Perception.
+- <span style="color:#1565C0"><strong>[ChinaSys 2026]</strong></span> Surviving the Impossible Trinity: Revisiting CPU Scheduling Problem on Modern COTS Mobile Devices (Operational Systems).
+- <span style="color:#1565C0"><strong>[DLS 2025]</strong></span> When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs. [Paper](https://arxiv.org/abs/2507.16773)
+
+
+
 
 ### **Awards**
 
