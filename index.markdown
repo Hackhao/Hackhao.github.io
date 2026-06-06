@@ -140,8 +140,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning. [Paper](https://arxiv.org/abs/2604.02318v1)
 - Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - From Transactions to Exploits: Automated PoC Synthesis for Real-World DeFi Attacks. [Paper](https://arxiv.org/abs/2601.16681)
-- Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents? [Paper](https://arxiv.org/abs/2601.12349)
-- Discovering 100+ Compiler Defects in 72 Hours via LLM-Driven Semantic Logic Recomposition. [Paper](https://arxiv.org/abs/2601.12360)
 - A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. [Paper](https://arxiv.org/abs/2512.16538)
 - Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation. [Paper](https://arxiv.org/abs/2509.18934)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
@@ -154,6 +152,8 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[CCS 2026]</strong></span>  Yi Qian, Kunwei Qian, Xingbang He, Ligeng Chen, Jikang Zhang, Tiantai Zhang, Haiyang Wei, Linzhang Wang, **Hao Wu**, Bing Mao. Mind the Gap: Action Rebinding Attacks against Android GUI Agents. [Paper](https://arxiv.org/abs/2601.12349)
+- <span style="color:#1565C0"><strong>[CCS 2026]</strong></span>  Xingbang He, Yuanwei Chen, **Hao Wu**, Jikang Zhang, Zicheng Wang, Ligeng Chen, Junjie Peng, Haiyang Wei, Yi Qian, Tiantai Zhang, Linzhang Wang, Bing Mao. FeatureFuzz: Treating Bug-prone Features as Core Primitives for Compiler Fuzzing. [Paper](https://arxiv.org/abs/2601.12360)
 - <span style="color:#1565C0"><strong>[KDD 2026]</strong></span> Yongheng Deng, Tianyuan Jiang, Zhenya Ma, **Hao Wu**, Yongjian Fu, Hao Pan, Sheng Yue, and Ju Ren. Accelerating Graph-Based RAG Retrieval via Locality-Aware Device–Cloud Collaboration. 
 - <span style="color:#1565C0"><strong>[TMC 2026]</strong></span> Jingzhou Zhu, Lizhi Sun, Fang Cao, Bo Yang, Peiwen Dong, Wendi Li, Yixin Xu, **Hao Wu**, Hao Han, Fengyuan Xu, Sheng Zhong. SlimFit-Gens: Towards Low Bandwidth One-on-One Video Calls on COTS Smartphones.
 - <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, **Hao Wu**, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee. Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning. [Paper](https://arxiv.org/abs/2510.04022)
