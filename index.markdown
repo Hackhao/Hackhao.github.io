@@ -135,6 +135,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Preprints**
 
+- ActProbe: Action-Space Probe for Early Failure Detection of Generative Robot Policies. [Paper](https://arxiv.org/abs/2606.08508)
 - MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents. [Paper](https://arxiv.org/abs/2605.07594)
 - EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents. [Paper](https://arxiv.org/abs/2605.10332)
 - Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning. [Paper](https://arxiv.org/abs/2604.02318v1)
