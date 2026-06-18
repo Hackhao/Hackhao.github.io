@@ -153,6 +153,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[ASE 2026]</strong></span>Xing Su, **Hao Wu**, Hanzhong Liang, Yunlin Jiang, Yuxi Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Automated PoC Synthesis from on-chain Attack Transactions. 
 - <span style="color:#1565C0"><strong>[ECCV 2026]</strong></span> Yikai Zheng, Xin Ding, Yifan Yang, Shiqi Jiang, **Hao Wu**, Qianxi Zhang, Weijun Wang, Ting Cao, Yunxin Liu. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - <span style="color:#1565C0"><strong>[CCS 2026]</strong></span>  Yi Qian, Kunwei Qian, Xingbang He, Ligeng Chen, Jikang Zhang, Tiantai Zhang, Haiyang Wei, Linzhang Wang, **Hao Wu**, Bing Mao. Mind the Gap: Action Rebinding Attacks against Android GUI Agents. [Paper](https://arxiv.org/abs/2601.12349)
 - <span style="color:#1565C0"><strong>[CCS 2026]</strong></span>  Xingbang He, Yuanwei Chen, **Hao Wu**, Jikang Zhang, Zicheng Wang, Ligeng Chen, Junjie Peng, Haiyang Wei, Yi Qian, Tiantai Zhang, Linzhang Wang, Bing Mao. FeatureFuzz: Treating Bug-prone Features as Core Primitives for Compiler Fuzzing. [Paper](https://arxiv.org/abs/2601.12360)
