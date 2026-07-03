@@ -135,6 +135,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Preprints**
 
+- Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. [Paper](https://arxiv.org/abs/2607.02501)
 - Usability as a Weapon: Attacking the Safety of LLM-Based Code Generation via Usability Requirements. [Paper](https://arxiv.org/abs/2605.10133)
 - ActProbe: Action-Space Probe for Early Failure Detection of Generative Robot Policies. [Paper](https://arxiv.org/abs/2606.08508)
 - MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents. [Paper](https://arxiv.org/abs/2605.07594)
