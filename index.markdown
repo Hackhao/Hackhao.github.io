@@ -140,7 +140,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - ActProbe: Action-Space Probe for Early Failure Detection of Generative Robot Policies. [Paper](https://arxiv.org/abs/2606.08508)
 - MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents. [Paper](https://arxiv.org/abs/2605.07594)
 - EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents. [Paper](https://arxiv.org/abs/2605.10332)
-- Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning. [Paper](https://arxiv.org/abs/2604.02318v1)
 - A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. [Paper](https://arxiv.org/abs/2512.16538)
 - Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation. [Paper](https://arxiv.org/abs/2509.18934)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
@@ -153,6 +152,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[MM 2026]</strong></span> Xueying Li, Feng Lyu, **Hao Wu**, Mingliu Liu, Jia-Nan Liu, Guozi Liu. MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration. [Paper](https://arxiv.org/abs/2604.02318v1)
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span>Ye Cheng, Minghui Xu, Yue Zhang, Kun Li, **Hao Wu**, Yechao Zhang, Shaoyong Guo, Wangjie Qiu, Dongxiao Yu, Xiuzhen Cheng. "Say What You Mean": Natural Language Access Control with Large Language Models for Internet of Things.
 - <span style="color:#1565C0"><strong>[ASE 2026]</strong></span>Xing Su, **Hao Wu**, Hanzhong Liang, Yunlin Jiang, Yuxi Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Automated PoC Synthesis from on-chain Attack Transactions. [Paper](https://arxiv.org/abs/2601.16681)
 - <span style="color:#1565C0"><strong>[ECCV 2026]</strong></span> Yikai Zheng, Xin Ding, Yifan Yang, Shiqi Jiang, **Hao Wu**, Qianxi Zhang, Weijun Wang, Ting Cao, Yunxin Liu. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
