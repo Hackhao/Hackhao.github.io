@@ -152,6 +152,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[IoTJ 2026]</strong></span>Huali Lu, **Hao Wu**, Sijing Duan, Tong Liu, Kai Qian, Wenbin Huang, Feng Lyu. Who's Who Across Networks? Cross-Operator Identity Recognition from Dual-SIM Trajectories.
 - <span style="color:#1565C0"><strong>[MM 2026]</strong></span> Xueying Li, Feng Lyu, **Hao Wu**, Mingliu Liu, Jia-Nan Liu, Guozi Liu. MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration. [Paper](https://arxiv.org/abs/2604.02318v1)
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span>Ye Cheng, Minghui Xu, Yue Zhang, Kun Li, **Hao Wu**, Yechao Zhang, Shaoyong Guo, Wangjie Qiu, Dongxiao Yu, Xiuzhen Cheng. "Say What You Mean": Natural Language Access Control with Large Language Models for Internet of Things.
 - <span style="color:#1565C0"><strong>[ASE 2026]</strong></span>Xing Su, **Hao Wu**, Hanzhong Liang, Yunlin Jiang, Yuxi Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Automated PoC Synthesis from on-chain Attack Transactions. [Paper](https://arxiv.org/abs/2601.16681)
