@@ -149,21 +149,18 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Selected Publications** (chronological order)
 
-
 #### 2026
 
-- <span style="color:#1565C0"><strong>[IoTJ 2026]</strong></span>Huali Lu, **Hao Wu**, Sijing Duan, Tong Liu, Kai Qian, Wenbin Huang, Feng Lyu. Who's Who Across Networks? Cross-Operator Identity Recognition from Dual-SIM Trajectories.
+- <span style="color:#1565C0"><strong>[ICCC 2026, <span style="color:#FF0000">Best Paper</span>]</strong></span> Jie Zhao, Shucheng Li, Ming Liu, **Hao Wu**, Fan Wu, Shuai Yang. DOpt: Decomposed Optimization for Collaborative VLM Inference over IoT-UAV-GBS Hierarchies.
 - <span style="color:#1565C0"><strong>[MM 2026]</strong></span> Xueying Li, Feng Lyu, **Hao Wu**, Mingliu Liu, Jia-Nan Liu, Guozi Liu. MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration. [Paper](https://arxiv.org/abs/2604.02318v1)
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span>Ye Cheng, Minghui Xu, Yue Zhang, Kun Li, **Hao Wu**, Yechao Zhang, Shaoyong Guo, Wangjie Qiu, Dongxiao Yu, Xiuzhen Cheng. "Say What You Mean": Natural Language Access Control with Large Language Models for Internet of Things.
 - <span style="color:#1565C0"><strong>[ASE 2026]</strong></span>Xing Su, **Hao Wu**, Hanzhong Liang, Yunlin Jiang, Yuxi Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Automated PoC Synthesis from on-chain Attack Transactions. [Paper](https://arxiv.org/abs/2601.16681)
-- <span style="color:#1565C0"><strong>[ECCV 2026]</strong></span> Yikai Zheng, Xin Ding, Yifan Yang, Shiqi Jiang, **Hao Wu**, Qianxi Zhang, Weijun Wang, Ting Cao, Yunxin Liu. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - <span style="color:#1565C0"><strong>[CCS 2026]</strong></span>  Yi Qian, Kunwei Qian, Xingbang He, Ligeng Chen, Jikang Zhang, Tiantai Zhang, Haiyang Wei, Linzhang Wang, **Hao Wu**, Bing Mao. Mind the Gap: Action Rebinding Attacks against Android GUI Agents. [Paper](https://arxiv.org/abs/2601.12349)
 - <span style="color:#1565C0"><strong>[CCS 2026]</strong></span>  Xingbang He, Yuanwei Chen, **Hao Wu**, Jikang Zhang, Zicheng Wang, Ligeng Chen, Junjie Peng, Haiyang Wei, Yi Qian, Tiantai Zhang, Linzhang Wang, Bing Mao. FeatureFuzz: Treating Bug-prone Features as Core Primitives for Compiler Fuzzing. [Paper](https://arxiv.org/abs/2601.12360)
 - <span style="color:#1565C0"><strong>[KDD 2026]</strong></span> Yongheng Deng, Tianyuan Jiang, Zhenya Ma, **Hao Wu**, Yongjian Fu, Hao Pan, Sheng Yue, and Ju Ren. Accelerating Graph-Based RAG Retrieval via Locality-Aware Device–Cloud Collaboration. 
 - <span style="color:#1565C0"><strong>[TMC 2026]</strong></span> Jingzhou Zhu, Lizhi Sun, Fang Cao, Bo Yang, Peiwen Dong, Wendi Li, Yixin Xu, **Hao Wu**, Hao Han, Fengyuan Xu, Sheng Zhong. SlimFit-Gens: Towards Low Bandwidth One-on-One Video Calls on COTS Smartphones.
 - <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Chendong Wang, Donglin Bai, Yifan Yang, Xiao Jin, Anlan Zhang, Rui Wang, Shiqi Jiang, Yuqing Yang, **Hao Wu**, Qi Dai, Chong Luo, Ting Cao, Lili Qiu, Suman Banerjee. Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning. [Paper](https://arxiv.org/abs/2510.04022)
 - <span style="color:#1565C0"><strong>[ICML 2026]</strong></span> Xin Ding, Jianyu Wei, Yifan Yang, Shiqi Jiang, Qianxi Zhang, **Hao Wu**, Fucheng Jia, Liang Mi, Yuxuan Yan, Weijun Wang, Yunxin Liu, Zhibo Chen, Ting Cao. AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation. [Paper](https://arxiv.org/abs/2509.24387)
-- <span style="color:#1565C0"><strong>[ICDCS 2026]</strong></span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
 - <span style="color:#1565C0"><strong>[ISSTA 2026]</strong></span> Zhengyang Shan, Xu Qian, Jiayun Xin, Minghui Xu, Yue Zhang, Zhen Yang, **Hao Wu**, Xiuzhen Cheng. SAGE: Signal-Amplified Guided Embeddings for Vulnerability Detection.
 - <span style="color:#1565C0"><strong>[SIGIR 2026]</strong></span> Fan Wu, Haoye Pan, **Hao Wu**, Kai Qian, Shucheng Li, Feng Lyu. SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency. 
 - <span style="color:#1565C0"><strong>[SIGIR 2026]</strong></span> Shucheng Li, Weixuan Xu, Le Jiang, **Hao Wu**, Fengyuan Xu, Fan Wu, Feng Lyu. Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision. 
@@ -173,7 +170,9 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - <span style="color:#1565C0"><strong>[INFOCOM 2026]</strong></span> Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting.
 - <span style="color:#1565C0"><strong>[MobiCom 2026]</strong></span> Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection.
 - <span style="color:#1565C0"><strong>[AAAI 2026]</strong></span> Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests.
-
+- <span style="color:#1565C0"><strong>[ECCV 2026]</strong></span> Yikai Zheng, Xin Ding, Yifan Yang, Shiqi Jiang, **Hao Wu**, Qianxi Zhang, Weijun Wang, Ting Cao, Yunxin Liu. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
+- <span style="color:#1565C0"><strong>[ICDCS 2026]</strong></span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
+- <span style="color:#1565C0"><strong>[IoTJ 2026]</strong></span>Huali Lu, **Hao Wu**, Sijing Duan, Tong Liu, Kai Qian, Wenbin Huang, Feng Lyu. Who's Who Across Networks? Cross-Operator Identity Recognition from Dual-SIM Trajectories.
 
 #### 2025
 
