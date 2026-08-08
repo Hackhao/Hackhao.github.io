@@ -132,6 +132,10 @@ From Feb. 2022, I have joined the COSEC Research Center of NJU and the National 
 
 My research interests primarily include ***LLM Security*** and ***Trustworthy Multimodal Agent***.
 
+### **News!**
+
+- 2026.08. IEEE/CIC ICCC 2026, Best Paper Award! 
+- 2026.08. Embodied.cpp v1.0 is released. [Link](https://github.com/SEU-PAISys/Embodied.cpp)
 
 ### **Preprints**
 
@@ -232,6 +236,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 ### **Awards**
 
+- IEEE/CIC ICCC 2026, Best Paper
 - 中央某部委高层次创新人才
 - 南京大学首届“苗圃计划” 2025
 - MSR Asia StarTrack Scholars 2024 program
