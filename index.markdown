@@ -147,7 +147,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. [Paper](https://arxiv.org/abs/2512.16538)
 - Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation. [Paper](https://arxiv.org/abs/2509.18934)
 - Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask. [paper](https://www.arxiv.org/pdf/2504.13474)
-- If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization. [paper](https://arxiv.org/abs/2410.15288)
 - "MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale. [Paper](https://arxiv.org/abs/2512.03775)
 
 
@@ -155,6 +154,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 
 #### 2026
 
+- <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span> Yue Li, Xiao Li, **Hao Wu**, Yue Zhang, Xiuzhen Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Attention Is All You Need for LLM-based Code Vulnerability Localization.
 - <span style="color:#1565C0"><strong>[ICCC 2026, <span style="color:#FF0000">Best Paper</span>]</strong></span> Jie Zhao, Shucheng Li, Ming Liu, **Hao Wu**, Fan Wu, Shuai Yang. DOpt: Decomposed Optimization for Collaborative VLM Inference over IoT-UAV-GBS Hierarchies.
 - <span style="color:#1565C0"><strong>[MM 2026]</strong></span> Xueying Li, Feng Lyu, **Hao Wu**, Mingliu Liu, Jia-Nan Liu, Guozi Liu. MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration. [Paper](https://arxiv.org/abs/2604.02318v1)
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span>Ye Cheng, Minghui Xu, Yue Zhang, Kun Li, **Hao Wu**, Yechao Zhang, Shaoyong Guo, Wangjie Qiu, Dongxiao Yu, Xiuzhen Cheng. "Say What You Mean": Natural Language Access Control with Large Language Models for Internet of Things.
