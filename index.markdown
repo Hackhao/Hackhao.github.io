@@ -176,6 +176,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - <span style="color:#1565C0"><strong>[AAAI 2026]</strong></span> Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests.
 - <span style="color:#1565C0"><strong>[ECCV 2026]</strong></span> Yikai Zheng, Xin Ding, Yifan Yang, Shiqi Jiang, **Hao Wu**, Qianxi Zhang, Weijun Wang, Ting Cao, Yunxin Liu. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - <span style="color:#1565C0"><strong>[ICDCS 2026]</strong></span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
+- <span style="color:#1565C0"><strong>[ICDM 2026]</strong></span> Fan Wu, Danni Xu, Kejing Yin, **Hao Wu**, Huiling Zhang, Wenfang Yao, Shanyun He, Lina Zhang, Zhaoxin Qian, and Feng Lyu. SADAER: Scalable Attention Diffusion Framework for Multi-task Abnormal EEG Recognition.
 - <span style="color:#1565C0"><strong>[IoTJ 2026]</strong></span>Huali Lu, **Hao Wu**, Sijing Duan, Tong Liu, Kai Qian, Wenbin Huang, Feng Lyu. Who's Who Across Networks? Cross-Operator Identity Recognition from Dual-SIM Trajectories.
 
 #### 2025
