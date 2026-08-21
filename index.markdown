@@ -157,7 +157,6 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 #### 2026
 
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span> Yue Li, Xiao Li, **Hao Wu**, Yue Zhang, Xiuzhen Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Attention Is All You Need for LLM-based Code Vulnerability Localization.
-- <span style="color:#1565C0"><strong>[ICCC 2026, <span style="color:#FF0000">Best Paper</span>]</strong></span> Jie Zhao, Shucheng Li, Ming Liu, **Hao Wu**, Fan Wu, Shuai Yang. DOpt: Decomposed Optimization for Collaborative VLM Inference over IoT-UAV-GBS Hierarchies.
 - <span style="color:#1565C0"><strong>[MM 2026]</strong></span> Xueying Li, Feng Lyu, **Hao Wu**, Mingliu Liu, Jia-Nan Liu, Guozi Liu. MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration. [Paper](https://arxiv.org/abs/2604.02318v1)
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span>Ye Cheng, Minghui Xu, Yue Zhang, Kun Li, **Hao Wu**, Yechao Zhang, Shaoyong Guo, Wangjie Qiu, Dongxiao Yu, Xiuzhen Cheng. "Say What You Mean": Natural Language Access Control with Large Language Models for Internet of Things.
 - <span style="color:#1565C0"><strong>[ASE 2026]</strong></span>Xing Su, **Hao Wu**, Hanzhong Liang, Yunlin Jiang, Yuxi Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Automated PoC Synthesis from on-chain Attack Transactions. [Paper](https://arxiv.org/abs/2601.16681)
@@ -176,9 +175,11 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 - <span style="color:#1565C0"><strong>[INFOCOM 2026]</strong></span> Qian Kai, Feng Lyu, **Hao Wu**, Jing Gao, Shucheng Li, Fan Wu, Qiong Luo, Bowen Chen, Fengyuan Xu. KAT: Knowledge-Context Augmentation for Evolving LLM-Based Telecom Troubleshooting.
 - <span style="color:#1565C0"><strong>[MobiCom 2026]</strong></span> Qiyong Fu, Feng Lyu, Mingliu Liu, **Hao Wu**, Jieyu Zhou, Lijuan He, Fan Wu, Jinli Sun, Manjia Liu. A3TP: Automated, Accurate, and Adaptive UAV Task Planning for Large-Scale Power Transmission Networks Inspection.
 - <span style="color:#1565C0"><strong>[AAAI 2026]</strong></span> Wendi Li, **Hao Wu**, Han Gao, Bing Mao, Fengyuan Xu, and Sheng Zhong. Diverse Human Driving Vehicle Simulation in Background Traffic for Autonomous Driving Tests.
+- <span style="color:#1565C0"><strong>[EMNLP 2026]</strong></span> Yaoqi Chen, Haibin Lai, Yuru Feng, Chuyu Han, Qianxi Zhang, Baotong Lu, Menghao Li, Xinjiang Wang, Zewen Jin, **Hao Wu**, Cheng Li, Qi Chen. Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents.
 - <span style="color:#1565C0"><strong>[ECCV 2026]</strong></span> Yikai Zheng, Xin Ding, Yifan Yang, Shiqi Jiang, **Hao Wu**, Qianxi Zhang, Weijun Wang, Ting Cao, Yunxin Liu. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding. [Paper](https://arxiv.org/abs/2603.19054) [slides](https://air-embodied-brain.github.io/Em-Garde/)
 - <span style="color:#1565C0"><strong>[ICDCS 2026]</strong></span> Lingzi Zhao, Huali Lu, **Hao Wu**, Shucheng Li, Longye Li, Tao He, Wenlong Liao, Feng Lyu. Integrated Load-Balanced Scheduling for Human-Vehicle Collaborative Urban Sanitation.
 - <span style="color:#1565C0"><strong>[ICDM 2026]</strong></span> Fan Wu, Danni Xu, Kejing Yin, **Hao Wu**, Huiling Zhang, Wenfang Yao, Shanyun He, Lina Zhang, Zhaoxin Qian, and Feng Lyu. SADAER: Scalable Attention Diffusion Framework for Multi-task Abnormal EEG Recognition.
+- <span style="color:#1565C0"><strong>[ICCC 2026, <span style="color:#FF0000">Best Paper</span>]</strong></span> Jie Zhao, Shucheng Li, Ming Liu, **Hao Wu**, Fan Wu, Shuai Yang. DOpt: Decomposed Optimization for Collaborative VLM Inference over IoT-UAV-GBS Hierarchies.
 - <span style="color:#1565C0"><strong>[IoTJ 2026]</strong></span>Huali Lu, **Hao Wu**, Sijing Duan, Tong Liu, Kai Qian, Wenbin Huang, Feng Lyu. Who's Who Across Networks? Cross-Operator Identity Recognition from Dual-SIM Trajectories.
 
 #### 2025
@@ -196,7 +197,7 @@ My research interests primarily include ***LLM Security*** and ***Trustworthy Mu
 #### 2024
 
 - <span style="color:#1565C0"><strong>[TrustCom 2024]</strong></span> Lizhi Sun, Jingzhou Zhu, Boyu Chang, Yixin Xu, Bo Yang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. TTFL: Towards Trustworthy Federated Learning with Arm Confidential Computing.
-- Shimao Xu, Xiaopeng ke, and **Hao Wu**. CAPter: Controllable Data Privacy Enhancement for Deep Learning Inference Services. **UIC 2024**.
+- <span style="color:#1565C0"><strong>[UIC 2024]</strong></span> Shimao Xu, Xiaopeng ke, and **Hao Wu**. CAPter: Controllable Data Privacy Enhancement for Deep Learning Inference Services.
 - <span style="color:#1565C0"><strong>[TKDD 2024]</strong></span> Shucheng Li, Jingzhou Zhu, Boyu Chang, **Hao Wu**, Fengyuan Xu, and Sheng Zhong. Multi-Label and Evolvable Dataset Preparation for Web-Based Object Detection.
 - <span style="color:#1565C0"><strong>[TIFS 2024]</strong></span> **Hao Wu**, Yuhang Gong, Xiaopeng Ke, Hanzhong Liang, Fengyuan Xu, Yunxin Liu, and Sheng Zhong. TIM: Enabling Large-scale White-box Testing on In-App Deep Learning Models.
 - <span style="color:#1565C0"><strong>[MM 2024]</strong></span> **Hao Wu**, Likun Zhang, Shucheng Li, Fengyuan Xu, and Sheng Zhong. CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation. [paper](publications/MM2024_CoAst.pdf)
