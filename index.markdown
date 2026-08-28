@@ -140,6 +140,7 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 
 ### **Preprints**
 
+- When Context Gets Root: Privilege Escalation in LLM Harnesses. [Paper](https://arxiv.org/abs/2608.27299v1)
 - Zetta &zeta;: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence. [Paper](https://air-embodied-brain.github.io/zetta/)
 - Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. [Paper](https://arxiv.org/abs/2607.02501)
 - Usability as a Weapon: Attacking the Safety of LLM-Based Code Generation via Usability Requirements. [Paper](https://arxiv.org/abs/2605.10133)
