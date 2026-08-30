@@ -157,7 +157,7 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 
 #### 2026
 
-- <span style="color:#1565C0"><strong>[TDSC 2026]</strong></span> Zhili Shen, Zhuoyu He, Jingyu Hua, **Hao Wu**, Sheng Zhong. ImgSan: Utility-Based Image Privacy Sanitizer for Online Visual Question Answering. 
+- <span style="color:#1565C0"><strong>[TDSC 2026]</strong></span> Zhili Shen, Zhuoyu He, Jingyu Hua, **Hao Wu**, Sheng Zhong. ImgSan: Utility-Based Image Privacy Sanitizer for Online Visual Question Answering.
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span> Yue Li, Xiao Li, **Hao Wu**, Yue Zhang, Xiuzhen Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Attention Is All You Need for LLM-based Code Vulnerability Localization.
 - <span style="color:#1565C0"><strong>[MM 2026]</strong></span> Xueying Li, Feng Lyu, **Hao Wu**, Mingliu Liu, Jia-Nan Liu, Guozi Liu. MetaNav: Metacognitive Vision-Language Navigation via Reflective Exploration. [Paper](https://arxiv.org/abs/2604.02318v1)
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span>Ye Cheng, Minghui Xu, Yue Zhang, Kun Li, **Hao Wu**, Yechao Zhang, Shaoyong Guo, Wangjie Qiu, Dongxiao Yu, Xiuzhen Cheng. "Say What You Mean": Natural Language Access Control with Large Language Models for Internet of Things.
