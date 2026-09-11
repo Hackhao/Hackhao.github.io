@@ -128,7 +128,7 @@ I am looking for highly motivated and self-driven students. If you are intereste
 ### **About Me**
 
 I received my Bachelor degree in computer science from Nanjing University in Jul. 2016. I obtained my Ph.D. degree under the supervision of [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm) at Nanjing University in Dec. 2021.
-From Feb. 2022, I have joined the COSEC Research Center of NJU and the National Key Lab for Novel Software Technology.
+From Feb. 2022, I have joined the COSEC Research Center lead by [Prof. Sheng Zhong](https://cosec.nju.edu.cn/ae/82/c47361a568962/page.htm).
 
 My research interests primarily include ***LLM Security*** and ***Physical AI***.
 
@@ -252,7 +252,7 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 - ACM SIGBED（中国）优博
 - 江苏省计算机学会优秀博士学位论文
 - 南京大学计算机科学与技术系优秀博士论文
-- “紫金山英才”栖霞先锋计划高层次创新创业人才
+<!-- - “紫金山英才”栖霞先锋计划高层次创新创业人才 -->
 <!-- - “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
 
 ### **Fundings**
