@@ -134,12 +134,13 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 
 ### **News!**
 
-- 2026.08. <b>Zetta &zeta;</b> is released. [🔗](https://air-embodied-brain.github.io/zetta/)
-- 2026.08. IEEE/CIC ICCC 2026, Best Paper Award! 
-- 2026.08. Embodied.cpp v1.0 is released. [🔗](https://github.com/SEU-PAISys/Embodied.cpp)
+- 2026.09. Physical In-Context Causal Learning, <b>Zeva</b>, is released. [🔗](https://air-embodied-brain.github.io/Zeva/)
+- 2026.08. Closed-Loop Embodied Harness, <b>Zetta &zeta;</b>, is released. [🔗](https://air-embodied-brain.github.io/zetta/)
+- 2026.08. Efficient Embodied AI inference engine, <b>Embodied.cpp</b>, is released. [🔗](https://github.com/SEU-PAISys/Embodied.cpp)
 
 ### **Preprints**
 
+- Zeva: In-Context Causal Learning for Generalizable Embodied Manipulation. [Paper](https://arxiv.org/pdf/2608.30880)
 - When Context Gets Root: Privilege Escalation in LLM Harnesses. [Paper](https://arxiv.org/abs/2608.27299v1)
 - Zetta &zeta;: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence. [Paper](https://air-embodied-brain.github.io/zetta/)
 - Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. [Paper](https://arxiv.org/abs/2607.02501)
