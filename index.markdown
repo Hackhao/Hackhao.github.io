@@ -158,6 +158,8 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 
 #### 2026
 
+
+- <span style="color:#1565C0"><strong>[ATC 2026]</strong></span> Fei Zeng, Zicheng Wang, Ligeng Chen, Yinggang Guo, **Hao Wu**, Lu Liu, Tao Wang, Jun Xiao, Borui Li, Feng Lyu. A^2: Characterizing and Mitigating Imbalanced Reclaim in MGLRU via Active Aging at Production Scale. 
 - <span style="color:#1565C0"><strong>[TMC 2026]</strong></span> Fei Zeng,Feng Lyu, **Hao Wu**, Zhanxi Li, YanHao Dong, and Shucheng Li. Scaling LLMs via Collaboration: Efficient LLM Inference across Resource-Constrained Devices.
 - <span style="color:#1565C0"><strong>[TDSC 2026]</strong></span> Zhili Shen, Zhuoyu He, Jingyu Hua, **Hao Wu**, Sheng Zhong. ImgSan: Utility-Based Image Privacy Sanitizer for Online Visual Question Answering.
 - <span style="color:#1565C0"><strong>[TIFS 2026]</strong></span> Yue Li, Xiao Li, **Hao Wu**, Yue Zhang, Xiuzhen Cheng, Yating Liu, Fengyuan Xu, Sheng Zhong. Attention Is All You Need for LLM-based Code Vulnerability Localization.
