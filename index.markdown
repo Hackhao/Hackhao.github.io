@@ -134,12 +134,14 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 
 ### **News!**
 
-- 2026.09. Physical In-Context Causal Learning, <b>Zeva</b>, is released. [🔗](https://air-embodied-brain.github.io/Zeva/)
-- 2026.08. Closed-Loop Embodied Harness, <b>Zetta &zeta;</b>, is released. [🔗](https://air-embodied-brain.github.io/zetta/)
+- 2026.09. Egocentric Mid-Training + ICCL, <b>Zeva-Ego</b>, is released. [🔗](https://air-embodied-brain.github.io/Zeva-Ego/)
+- 2026.09. Physical In-Context Causal Learning (ICCL), <b>Zeva</b>, is released. [🔗](https://air-embodied-brain.github.io/Zeva/)
+- 2026.08. Physical Self-Improvment (PSI), <b>Zetta &zeta;</b>, is released. [🔗](https://air-embodied-brain.github.io/zetta/)
 - 2026.08. Efficient Embodied AI inference engine, <b>Embodied.cpp</b>, is released. [🔗](https://github.com/SEU-PAISys/Embodied.cpp)
 
 ### **Preprints**
 
+- Zeva-Ego: Egocentric Mid-Training with In-Context Causal Learning for Robot Manipulation. [Paper](https://arxiv.org/abs/2609.24411)
 - Zeva: In-Context Causal Learning for Generalizable Embodied Manipulation. [Paper](https://arxiv.org/pdf/2608.30880)
 - When Context Gets Root: Privilege Escalation in LLM Harnesses. [Paper](https://arxiv.org/abs/2608.27299v1)
 - Zetta &zeta;: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence. [Paper](https://air-embodied-brain.github.io/zetta/)
