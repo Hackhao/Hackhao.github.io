@@ -248,13 +248,14 @@ My research interests primarily include ***LLM Security*** and ***Physical AI***
 
 ### **Awards**
 
+- ACM SIGBED（中国）新星 2026
 - IEEE/CIC ICCC 2026, Best Paper
-- 中央某部委高层次创新人才
+- 中央某部委高层次创新人才 2025
 - 南京大学首届“苗圃计划” 2025
 - MSR Asia StarTrack Scholars 2024 program
-- 中文信息学会 优秀博士学位论文
-- ACM SIGBED（中国）优博
-- 江苏省计算机学会优秀博士学位论文
+- 中文信息学会 优秀博士学位论文 2022
+- ACM SIGBED（中国）优博 2022
+- 江苏省计算机学会优秀博士学位论文 2022
 - 南京大学计算机科学与技术系优秀博士论文
 <!-- - “紫金山英才”栖霞先锋计划高层次创新创业人才 -->
 <!-- - “赢在南京” 青年大学生创业大赛“中国(南京)智谷” 青年大学生创业大赛第一名 -->
